@@ -1,0 +1,49 @@
+name: Deploy
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/15 * * * *'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v3
+        with:
+          ref: main
+          repository: koishijs/registry
+          token: ${{ secrets.WORKFLOW_TOKEN }}
+
+      - name: Check out dist
+        uses: actions/checkout@v3
+        with:
+          ref: dist
+          path: dist
+
+      - name: Set up Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+
+      - name: Install
+        run: yarn
+
+      - name: Sync
+        id: sync
+        run: yarn sync
+
+      - name: Deploy registry
+        uses: peaceiris/actions-gh-pages@v3
+        if: ${{ steps.sync.outputs.update }}
+        with:
+          personal_token: ${{ secrets.WORKFLOW_TOKEN }}
+          publish_dir: dist
+          publish_branch: dist
+          user_name: GitHub Actions
+          user_email: actions@github.com
+          force_orphan: true
+          enable_jekyll: true
