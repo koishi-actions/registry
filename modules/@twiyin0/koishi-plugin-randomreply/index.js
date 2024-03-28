@@ -1,0 +1,14 @@
+var m=Object.defineProperty;var x=Object.getOwnPropertyDescriptor;var d=Object.getOwnPropertyNames;var _=Object.prototype.hasOwnProperty;var n=(s,e)=>()=>(s&&(e=s(s=0)),e);var f=(s,e)=>()=>(e||s((e={exports:{}}).exports,e),e.exports);var p=(s,e,i,c)=>{if(e&&typeof e=="object"||typeof e=="function")for(let l of d(e))!_.call(s,l)&&l!==i&&m(s,l,{get:()=>e[l],enumerable:!(c=x(e,l))||c.enumerable});return s},t=(s,e,i)=>(p(s,e,"default"),i&&p(i,e,"default"));var u=s=>p(m({},"__esModule",{value:!0}),s);import{Buffer}from"https://registry.koishi.chat/modules/buffer/index.js";import process from"https://registry.koishi.chat/modules/process/index.js";var r=n(()=>{});var a={};import*as v from"https://registry.koishi.chat/modules/@satorijs/element/jsx-runtime/index.js";var g=n(()=>{r();t(a,v)});var o={};import*as R from"https://registry.koishi.chat/modules/koishi/index.js";var h=n(()=>{r();t(o,R)});var j=f((exports,module)=>{r();Object.defineProperty(exports,"__esModule",{value:!0});exports.apply=exports.schema=exports.Rule=exports.usage=exports.name=void 0;var jsx_runtime_1=(g(),u(a)),koishi_1=(h(),u(o));exports.name="randomreply";exports.usage=`
+## 使用说明
+<at#>      @触发者  
+<quote#>   回复/引用触发者的消息  
+&lt;image url="xxxxx"/&gt;   句尾后加一张图片xxxx是图片的地址  
+<recall#>  撤回消息（需要群聊管理员权限）  
+示例:  
+<at#>你好啊&lt;image url="https://example.com/a.png"/&gt;  
+image和url间必须有空格  
+别的好像没什么好说的  
+url记得加http(s)，如果是本地图片请用file:///(绝对路径eg: file:///path/to/image.jpg)  
+目前仅支持一张图片，能力有限对不住啦  
+项目参考：[@koishijs/respondent](https://github.com/koishijs/koishi-plugin-respondent)
+`;exports.Rule=koishi_1.Schema.object({express:koishi_1.Schema.boolean().description("match启用正则表达式?").default(!1),match:koishi_1.Schema.string().description("要匹配的输入。").required(),reply:koishi_1.Schema.array(String).description("要发送的内容数组").required()});exports.schema=koishi_1.Schema.object({rules:koishi_1.Schema.array(exports.Rule).description("条件匹配并随机回复")});function apply(ctx,cfg){ctx.on("message",async session=>{for(let rule of cfg.rules){let express=null;if(express=rule.express?eval(rule.match):null,express?session.content.match(express):session.content.includes(rule.match)){var getstr=koishi_1.Random.pick(rule.reply);let s=getstr.match(/<quote#>/gi)?(0,jsx_runtime_1.jsx)("quote",{id:session.messageId}):null,e=getstr.match(/<at#>/gi)?(0,jsx_runtime_1.jsx)("at",{id:session.userId}):null;var imgmatch=getstr.match(/<image url=(.*)\/>/gi)[0];let i=imgmatch?koishi_1.h.unescape(imgmatch):null;getstr.match(/<recall#>/gi)&&session.subtype!=="private"&&await session.bot.deleteMessage(session.channelId,session.messageId),getstr=getstr.replace(/<quote#>/gi,"").replace(/<at#>/gi,"").replace(/<recall#>/gi,"").replace(/<image url=(.*)\/>/gi,""),session.send((0,jsx_runtime_1.jsxs)(jsx_runtime_1.Fragment,{children:[s,e,getstr]})+i)}}})}exports.apply=apply});export default j();
