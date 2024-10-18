@@ -1,0 +1,131 @@
+@dgck81lnn/koishi-plugin-adapter-minecraft-console-client
+Minecraft-Console-Client adapter
+
+@q78kg/koishi-plugin-messages-saver-mongodb
+Save messages to mongodb
+
+@q78kg/koishi-plugin-text-censor
+A text censor provider for Koishi
+
+koishi-plugin-anime-convention-lizard
+查询某个城市即将开始的漫展或查询相关动漫的漫展
+
+koishi-plugin-baicizhan-daily-sentence
+百词斩每日一句获取
+
+koishi-plugin-cf-topic
+
+
+koishi-plugin-chatluna-image-renderer
+image renderer for chatluna
+
+koishi-plugin-copyhub
+text/file transfer station
+
+koishi-plugin-custom-feature158
+A Koishi plugin that adds [brief description of your plugin's functionality]
+
+koishi-plugin-db2-wiki
+地下城堡2
+
+koishi-plugin-deer-pipe
+*[<ruby>deer-pipe<rp>（</rp><rt>点我查看README</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-deer-pipe)* 一个🦌管（鹿管）签到小[插件 效果预览](https://i0.hdslb.com/bfs/article/496e02d92547d2a74c17ff9280e8ab55312276085.png) 日历效果的签到插件。😿不支持QQ官方bot。灵感来自于[yun
+
+koishi-plugin-dew-bot
+[![npm](https://img.shields.io/npm/v/koishi-plugin-dew-bot?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-dew-bot)
+
+koishi-plugin-dg-lab-ws
+[<ruby>DG-LAB<rp>（</rp><rt>点我查看README</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-dg-lab-ws)郊狼的ws服务插件，让你的koishi变成郊狼websocket服务器！转发命令、管理连接...一起在koishi里玩郊狼吧！
+
+koishi-plugin-error-encountered
+Use this to troll your friend
+
+koishi-plugin-fatails-hunting
+使用这款插件来狩猎黑龙吧
+
+koishi-plugin-ffxv-bot-hcn
+FF14查价机器人 Universalis集成 By.HCN
+
+koishi-plugin-fishspeech-gpt
+依赖fish.speech开源项目进行语音克隆以及语音合成的gpt对话机器人
+
+koishi-plugin-forward2server
+forward2server
+
+koishi-plugin-freexiaoxue-api
+[<ruby>免费小学后端服务<rp>（</rp><rt>点我查看食用方法</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-freexiaoxue-api) 为 chatluna-freexiaoxue-adapter 提供一个后端服务地址
+
+koishi-plugin-j-integral-api
+一款简单的积分插件的API
+
+koishi-plugin-know-more
+A koishi plugin to help you know more.
+
+koishi-plugin-l4d2-query
+manage your l4d2 server
+
+koishi-plugin-ll-my1
+test
+
+koishi-plugin-lostark-tips
+命运方舟副本次数提醒
+
+koishi-plugin-magnet-thumbnail
+验车！预览磁力链接的缩略图及信息
+
+koishi-plugin-mail
+mail插件，功能未完善，正在测试
+
+koishi-plugin-nscn-test
+it is test
+
+koishi-plugin-one-api
+[![npm](https://img.shields.io/npm/v/koishi-plugin-one-api?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-one-api)
+
+koishi-plugin-osuprofile
+return osu profile
+
+koishi-plugin-paintboard-status
+pbd-status
+
+koishi-plugin-pic-splice-lizard
+拼接图片，可选择横向或纵向
+
+koishi-plugin-pjsk-guess-song
+[![npm](https://img.shields.io/npm/v/koishi-plugin-pjsk-guess-song?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-pjsk-guess-song)
+
+koishi-plugin-qrcode-service-null
+二维码服务 为一些需要发送链接的场景提供qrcode服务，更统一地使用qrcode。
+
+koishi-plugin-sexy-pic-lizard
+随机SFW/NSFW图，包括超多tag，甚至有重口男同
+
+koishi-plugin-sky-example
+写个一问一答测试一下
+
+koishi-plugin-smmcat-baaudio
+蔚蓝档案学生语音包(数据来源：kivo.wiki)
+
+koishi-plugin-smmcat-selfhelp
+用户自助服务系统
+
+koishi-plugin-storeluna
+/*storeluna*/通过koishi，⭐快速搭建你的koishi镜像！
+
+koishi-plugin-te-orders
+test
+
+koishi-plugin-test-fix-rpg
+临时修复的axlmly-role-playing-game
+
+koishi-plugin-w-openrouter
+WillBot: OpenRouter.ai functions
+
+koishi-plugin-w-tree
+WillBot: display command trees
+
+koishi-plugin-w-zlibrary
+WillBot: zlibrary functions
+
+koishi-plugin-yezi-football
+自用
