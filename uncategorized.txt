@@ -1,0 +1,104 @@
+@dgck81lnn/koishi-plugin-adapter-minecraft-console-client
+Minecraft-Console-Client adapter
+
+@dgck81lnn/koishi-plugin-alias
+fork of alias(1) for Koishi
+
+@q78kg/koishi-plugin-ba-tarot
+ba塔罗牌抽取
+
+@q78kg/koishi-plugin-messages-saver-mongodb
+Save messages to mongodb
+
+@q78kg/koishi-plugin-text-censor
+A text censor provider for Koishi
+
+@soloshine/koishi-plugin-adapter-wechatferry
+wechatferry适配器，参考zhx47 <2758887317@qq.com>的实现，其依赖异常，我做了修复、重构了部分逻辑、添加了些许功能，后续有缘更新
+
+@xiaozhedesu/koishi-plugin-ohayo
+早安呐~
+
+koishi-plugin-brick
+功夫再好，一砖撂倒。烧制砖头来拍群友吧，拍好了禁言他，没拍好被禁言！
+
+koishi-plugin-chat-summary
+This is a plugin for summarizing your chat.
+
+koishi-plugin-custom-reply
+可自定义指令并做出相应回复的插件，自用
+
+koishi-plugin-dst-one
+饥荒服务器信息查询
+
+koishi-plugin-fatails-hunting
+使用这款插件来狩猎黑龙吧
+
+koishi-plugin-forward2server
+forward2server
+
+koishi-plugin-impart-pro
+*[<ruby>impart-pro<rp>（</rp><rt>点我查看README</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-impart-pro)* 🐮牛牛大作战插件 [点我预览效果](https://i0.hdslb.com/bfs/article/fdb2caeeffc063f393dfb030bc0d6cda312276085.png) 。支持 monetary，😿不支持QQ官方bot。灵感来自于[y
+
+koishi-plugin-ll-my1
+test
+
+koishi-plugin-mail
+mail插件，功能未完善，正在测试
+
+koishi-plugin-mcmotd-customserver-canvas
+一个查询 Java Edition / Bedrock Edition 服务器信息的Koishi插件
+
+koishi-plugin-nscn-test
+it is test
+
+koishi-plugin-one-api
+[![npm](https://img.shields.io/npm/v/koishi-plugin-one-api?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-one-api)
+
+koishi-plugin-paintboard-status
+pbd-status
+
+koishi-plugin-pixluna
+比较新的涩图插件（？
+
+koishi-plugin-qw-q-0
+组号
+
+koishi-plugin-qw-q-0qw
+uhuhu
+
+koishi-plugin-qw-q-1
+组号
+
+koishi-plugin-qw-q-1qw
+hgfhgf
+
+koishi-plugin-qw-q-2
+组号
+
+koishi-plugin-qw-q-3
+组号
+
+koishi-plugin-qw-q-4
+组号
+
+koishi-plugin-sky-example
+写个一问一答测试一下
+
+koishi-plugin-smmcat-grongvijug
+主动夺舍官方QQbot 开启跨群聊天
+
+koishi-plugin-storeluna
+/*storeluna*/通过koishi，⭐快速搭建你的koishi镜像！支持统计访问量📈、同步次数🔄、成功次数✅、白名单规则数🟢、黑名单规则数🔴🛠️.....
+
+koishi-plugin-sve-helper
+Unofficial card search plugin for Shadowverse Evolve (SVE) based on sve-helper and Koishi.
+
+koishi-plugin-te-orders
+test
+
+koishi-plugin-w-jieba
+WillBot: Jieba service (based on `@willbot-koishi/jieba`)
+
+koishi-plugin-yesimbot-update-hook
+[![npm](https://img.shields.io/npm/v/koishi-plugin-yesimbot-update-hook?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-yesimbot-update-hook)
