@@ -12,20 +12,20 @@ jobs:
 
     steps:
       - name: Check out
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: main
           repository: koishijs/registry
           token: ${{ secrets.WORKFLOW_TOKEN }}
 
       - name: Check out dist
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           ref: dist
           path: dist
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
 
       - name: Install
         run: yarn
@@ -35,7 +35,7 @@ jobs:
         run: yarn sync
 
       - name: Deploy registry
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         if: ${{ steps.sync.outputs.update }}
         with:
           personal_token: ${{ secrets.WORKFLOW_TOKEN }}
