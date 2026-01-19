@@ -1,0 +1,1 @@
+function c(a){a.theme({id:"catppuccin-latte-light",name:"Catppuccin Latte"}),a.theme({id:"catppuccin-frappe-dark",name:"Catppuccin Frappe"}),a.theme({id:"catppuccin-macchiato-dark",name:"Catppuccin Macchiato"}),a.theme({id:"catppuccin-mocha-dark",name:"Catppuccin Mocha"})}export{c as default};

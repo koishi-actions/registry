@@ -1,0 +1,3885 @@
+@arr0wing/koishi-plugin-bemfa
+将巴法云设备接入Koishi
+
+@avenir01/koishi-plugin-revive
+personal revive function
+
+@axw_/koishi-plugin-blacklist
+自用插件
+
+@azimiao/koishi-plugin-cafe-bot-exp
+cafe bot experiment
+
+@bili22/koishi-plugin-404-tip
+未找到指令提示
+
+@bili22/koishi-plugin-ad
+
+
+@bili22/koishi-plugin-dau
+DAU查询
+
+@cata_a/koishi-plugin-xenforo
+XenForo 论坛 Webhook
+
+@ccd2s/koishi-plugin-private-koishi-all
+插件
+
+@chanewant/koishi-plugin-webhook-trigger-action
+监听指定路径上的网络请求，并向指定平台发送信息
+
+@crossrobbery/koishi-plugin-myauto-xy
+自用插件by.zj
+
+@ctyaqa/koishi-plugin-russian-roulette
+俄罗斯轮盘赌(金币版)
+
+@d7z-bot/koishi-plugin-single-boy-helper
+单身狗帮助插件
+
+@d7z-team/koishi-plugin-single-boy-helper
+单身狗帮助插件
+
+@deepseaxx/koishi-plugin-image-selector
+A powerful Koishi plugin for random image/video sending and user image storage with alias system support
+
+@dgck81lnn/koishi-plugin-eval
+Execute JavaScript and create addons in Koishi
+
+@dgck81lnn/koishi-plugin-says
+Yet another driftbottle-like plugin but it's called Says somehow
+
+@fingtest6/koishi-plugin-imageurl
+获取url中的图片并返回
+
+@goforcex/koishi-plugin-draw4o
+Use GPT-4o to draw vivid pictures.
+
+@hambur/koishi-plugin-auto-kick
+自动踢出黑名单用户的群管理插件
+
+@hieuzest/koishi-plugin-command
+Better command tokenizer
+
+@hieuzest/koishi-plugin-market
+Manage your bots and plugins with console
+
+@inscripoem/koishi-plugin-newbee-image-gen
+ai image use cloudflare workers ai
+
+@jgg0sbp66/koishi-plugin-askai
+AI chat assistant plugin with context memory and user-level API configuration
+
+@jgg0sbp66/koishi-plugin-bash
+bash env
+
+@kagarise/koishi-plugin-cqcode
+send cqcode
+
+@kagarise/koishi-plugin-rpfu
+为你发送随机图片(从链接的文件中随机一行)
+
+@kagarise/koishi-plugin-syno-rpfu
+none
+
+@kinkinko/koishi-plugin-test
+test
+
+@kirror/koishi-plugin-queue
+Simple queue task plugin.
+
+@koishijs/plugin-adventure
+Adventure game framework for Koishi
+
+@koishijs/plugin-chess
+Playing chess games in Koishi
+
+@koishijs/plugin-discord
+Discord adapter for Koishi
+
+@koishijs/plugin-kaiheila
+Kaiheila adapter for Koishi
+
+@koishijs/plugin-minecraft
+Minecraft adapter for Koishi
+
+@koishijs/plugin-monitor
+
+
+@koishijs/plugin-onebot
+CQHTTP adapter for Koishi
+
+@koishijs/plugin-rss
+Subscribe RSS Url for Koishi
+
+@koishijs/plugin-telegram
+Telegram adapter for Koishi
+
+@koishijs/plugin-tools
+Some simple tools for Koishi
+
+@koishijs/plugin-webui
+Create web user interface for Koishi
+
+@kx501/koishi-plugin-electric-fee
+简单统计宿舍电费
+
+@kx501/koishi-plugin-pollinations-draw
+PollinationsAI Draw 的简单实现
+
+@kyomiko/koishi-plugin-kyomiko-middleware
+自用中间件，无实际业务代码
+
+@logthm/koishi-plugin-cr
+[![npm](https://img.shields.io/npm/v/@logthm/koishi-plugin-cr?style=flat-square)](https://www.npmjs.com/package/@logthm/koishi-plugin-cr)
+
+@mashroomwolf/koishi-plugin-daynew
+[![npm](https://img.shields.io/npm/v/@mashroomwolf/koishi-plugin-daynew?style=flat-square)](https://www.npmjs.com/package/@mashroomwolf/koishi-plugin-daynew)
+
+@mengshouer/koishi-plugin-news
+Daily news push plugin with 60s world overview
+
+@mengshouer/koishi-plugin-url-sender
+Send images or videos by URL with automatic content type detection
+
+@miaowfish/koishi-plugin-yesimbot
+Yes! I'm Bot! 机械壳，人类心
+
+@mikochen/koishi-plugin-qqmusic
+QQ音乐点播
+
+@mirageturtle/koishi-plugin-nimbus
+A weather helper for a turtle.
+
+@mjx121418/koishi-plugin-numble
+A simple number guessing game
+
+@momuhoka/koishi-plugin-jrrp
+自用今日人品插件，AI生成仅供参考：主要负责协助AI大人完成功能完善和BUG修复
+
+@mrlingxd/koishi-plugin-adapter-onebot
+OneBot Adapter for Koishi
+
+@mueo/koishi-plugin-faith
+[![npm](https://img.shields.io/npm/v/@mueo/koishi-plugin-faith?style=flat-square)](https://www.npmjs.com/package/@mueo/koishi-plugin-faith)
+
+@myrtus/koishi-plugin-getgroupid
+获取所在群组编号
+
+@myrtus/koishi-plugin-getselfid
+获取机器人自身编号
+
+@myrtus/koishi-plugin-ping
+测试机器人是否成功反应
+
+@nenekusanagi/koishi-plugin-setu
+A simple setu program powered by Koishi.
+
+@ntrwansui/koishi-plugin-prts
+自用机器人功能插件
+
+@ntrwansui/koishi-plugin-prts-apimart
+自用AI生图插件，基于APIMart的API
+
+@ntrwansui/koishi-plugin-prts-grsai
+自用图片编辑插件，基于Grsai的API
+
+@ntrwansui/koishi-plugin-prts-juhenext
+自用手办化插件，基于JuhenNext的API
+
+@ntrwansui/koishi-plugin-prts-novelai
+Generate images by Novelai
+
+@ntrwansui/koishi-plugin-waifu-diffusion-tagger
+图片反推AI生成标签，nsfw程度评分及角色识别，自修改版本，添加ProxyAgent
+
+@panyuou/koishi-plugin-sparklite
+用于讯飞星火大Lite模型的对接,理论上适配讯飞其他大模型
+
+@pynickle/koishi-plugin-adapter-onebot
+OneBot Adapter for Koishi with NapCat Extensions
+
+@q78kg/koishi-plugin-jrrp
+今日人品（LAS 复刻版）
+
+@quanhuzeyu/koishi-plugin-qz-siliconflow
+koishi插件，支持openaiAPI格式的平台接入，如果你使用控制台将可以同时使用多个平台配置；支持分群组配置，为console界面深度优化，易于配置参数
+
+@quanhuzeyu/koishi-plugin-qz-test
+该项目展示了dynamic的用法，以及database，服务的用法
+
+@rinsoko/koishi-plugin-helloworld
+[![npm](https://img.shields.io/npm/v/@rinsoko/koishi-plugin-helloworld?style=flat-square)](https://www.npmjs.com/package/@rinsoko/koishi-plugin-helloworld)
+
+@saarchaffee/koishi-plugin-exchange-rate
+Exchange rate query
+
+@sein3826/koishi-plugin-randompic
+A Koishi plugin that sends random images from configured galleries.
+
+@shangxueink/koishi-plugin-commands-refresh
+Override Command Config for Koishi
+
+@shangxueink/koishi-plugin-instance-backup
+Backup for Koishi
+
+@shangxueink/koishi-plugin-qq-onebot
+神秘小插件。QQ官方bot+野生实现伪主动哦~
+
+@simmir/koishi-plugin-ouline-subscriber
+Outline subscribe plugin to dingtalk
+
+@slamacraft/koishi-plugin-dify-adpter
+自用，不建议使用。仅适配QQ，私聊或被@时使用dify来回复非指令消息消息。
+
+@stivine/koishi-plugin-zvv
+zvv
+
+@tomovo/koishi-plugin-yesimbot
+Yes! I'm Bot! 机械壳，人类心
+
+@tyllllll/koishi-plugin-random-send
+随机抽取群中一条历史消息发送
+
+@tyllllll/koishi-plugin-repeater
+指定复读次数后打断或者+1
+
+@wahaha216/koishi-plugin-jmcomic
+下载JM本子，无需python。支持pdf、zip加密。
+
+@warin2025/koishi-plugin-pumper-password
+获取泵车密码（自用）
+
+@windypear/koishi-plugin-articles-autopush
+自动推送Crom订阅中的文章到指定频道，自用
+
+@windypear/koishi-plugin-tdz-img
+对接糖豆子AI绘画
+
+@wittf/koishi-plugin-adapter-onebot
+OneBot Adapter for Koishi with NapCat Extensions
+
+@wztxy/koishi-plugin-grouphelper
+群管理插件，提供踢人、禁言、警告、关键词等功能(好像是最全面的群管插件.....吗)
+
+@xbohodx/koishi-plugin-waterxu
+1
+
+@xiaomoinfo/koishi-plugin-adapter-dingtalk
+adapter dingtalk(in develop)
+
+@xiaomoinfo/koishi-plugin-tyq
+透群友，你懂的(占个位)
+
+@xiaozhu2007/koishi-plugin-netutils
+[<ruby>多合一网络探测工具<rp>（</rp><rt>适用于 DN42</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/@xiaozhu2007/koishi-plugin-netutils) 适用于 Bird-lg-go 的 traceroute 和 whois 组件。支持引入 Routinator 实现 ROA 检查。
+
+@xiongcj/koishi-plugin-adapter-wechat4u
+wechat for you adapter
+
+@xiongcj/koishi-plugin-adapter-wechat4u-persional
+wechat for you xiongcj
+
+@xuekirby/koishi-plugin-verify-group-smart
+智能群组验证插件 - 支持多群配置的 AI 驱动加群验证系统（仅支持 OneBot 协议）
+
+@yamabuki/koishi-plugin-bilibili-notify
+Koishi bilibili notify plugin
+
+@yamabuki/koishi-plugin-eat-what
+用于koishi的今天吃什么,适配过滤器
+
+@yamabuki/koishi-plugin-pixiv
+[![npm](https://img.shields.io/npm/v/@yamabuki/koishi-plugin-pixiv?style=flat-square)](https://www.npmjs.com/package/@yamabuki/koishi-plugin-pixiv)
+
+@yamabuki/koishi-plugin-waifu
+Marry with your groupmate, with BanG Dream Border!
+
+@yesimbot/koishi-plugin-code-executor
+Yes! I'm Bot! 代码执行器扩展插件
+
+@yesimbot/koishi-plugin-code2image
+Yes! I'm Bot! 代码转图片扩展插件
+
+@yesimbot/koishi-plugin-favor
+Yes! I'm Bot! 好感度插件
+
+@yesimbot/koishi-plugin-mcp
+Yes! I'm Bot! MCP 扩展插件
+
+@yesimbot/koishi-plugin-rr3
+Yes! I'm Bot! 图片生成 (RR3) 扩展插件
+
+@yesimbot/koishi-plugin-tts
+为 YesImBot 提供TTS(文本转语音)功能
+
+@yesimbot/koishi-plugin-vision-tools
+Vision Tools for YesImBot
+
+@yuanxueshi/koishi-plugin-yxs-pterodactyl
+对接翼龙面板 (Pterodactyl Panel) 的 Koishi 插件，支持 QQ 群内实时监控服务器状态、资源使用及启停管理（指令前缀 yxs）
+
+@yuuzy/koishi-plugin-ccb
+sehu-life-factor的二次开发版!
+
+@yuuzy/koishi-plugin-fxxk-everyone
+对接收到的全部消息回复"滚"
+
+@yuuzy/koishi-plugin-onebot-random-wife
+随机群老婆（仅支持OneBot适配器）
+
+@yyyhf/koishi-plugin-onebot-assign
+获取在线的onebot群列表并分配受理人
+
+@yyyhf/koishi-plugin-onebot-group-cleaner
+你的账号进进出出这么多群，是时候把数据库中已经退出的群数据清理掉了！
+
+@yyyhf/koishi-plugin-topkill-png-xx
+自用,不要下载
+
+@zenkexi/koishi-plugin-forward-with-consor
+Forward messages
+
+@zxxxy/koishi-plugin-tarotpro
+抽取文字加强
+
+koishi-plugin-6657memes
+6657烂梗
+
+koishi-plugin-7qbot
+QQ群收入群费机器人（自用）需定制联系s7123@foxmail.com
+
+koishi-plugin-7qbot-sd
+stable diffusion 绘图
+
+koishi-plugin-808ps-aizhipu
+这是一款对接AI的实例
+
+koishi-plugin-808ps-gmgame
+[![npm](https://img.shields.io/npm/v/koishi-plugin-808ps-gmgame?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-808ps-gmgame)
+
+koishi-plugin-808ps-guanli
+管理用户系统
+
+koishi-plugin-808ps-jiankong
+监控系统
+
+koishi-plugin-808ps-max
+合集
+
+koishi-plugin-808ps-qqweb
+[![npm](https://img.shields.io/npm/v/koishi-plugin-808ps-qqweb?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-808ps-qqweb)
+
+koishi-plugin-808ps-qqweb2
+[![npm](https://img.shields.io/npm/v/koishi-plugin-808ps-qqweb2?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-808ps-qqweb2)
+
+koishi-plugin-808ps-yingda
+关键词回复，违规词@管理，刷屏@管理
+
+koishi-plugin-808ps-zhuce
+808ps-注册插件
+
+koishi-plugin-808ps-zhucedf
+808ps开发的注册插件
+
+koishi-plugin-a-currency
+一个简单的货币系统插件，自用
+
+koishi-plugin-accounting
+一个记账程序，并且可以生成用户消费排行榜
+
+koishi-plugin-acm-contest
+算法竞赛
+
+koishi-plugin-acm-daily-problems
+每日推送算法题
+
+koishi-plugin-active-2333pro
+根据水友说话随机加分
+
+koishi-plugin-active-tasks
+Koishi活跃任务插件 - 群成员完成任务获取积分，积分商店兑换物品
+
+koishi-plugin-activity-watcher-jwdekt
+自用，轮询第二课堂活动状态并自动提醒
+
+koishi-plugin-ad-monitoring
+广告消息检测插件，基于大模型的智能语义分析
+
+koishi-plugin-adapter-api-exec
+A HTTP-Friendly Adapter for Koishi, based on @hieuzest/koishi-plugin-execute
+
+koishi-plugin-adapter-bilibili-dm
+Bilibili Adapter for Koishi
+哔哩哔哩适配器
+
+koishi-plugin-adapter-casdoor
+对接Casdoor用户系统！包含积分签到
+
+koishi-plugin-adapter-gpt-sovits
+Adapter for GPT-SoVITS
+
+koishi-plugin-adapter-gsuid
+连接到gsuid，为QQ官机量身定做
+
+koishi-plugin-adapter-heychat
+黑盒（heychat）黑盒适配器
+
+koishi-plugin-adapter-mail-pro
+邮件适配器增强版，支持自定义邮件主题、发件人名称、STARTTLS加密模式
+
+koishi-plugin-adapter-mc
+Minecraft适配器
+
+koishi-plugin-adapter-milky
+Milky Protocol Adapter for Koishi
+
+koishi-plugin-adapter-napcat
+NapCat Adapter for Koishi (Based on OneBot)
+
+koishi-plugin-adapter-nextchat
+NextChat 适配器 - 通过 NextChat 界面与 Koishi 对话。支持 OpenAI API 格式。
+
+koishi-plugin-adapter-ntqq
+本插件为第三方制作，与Koishi官方无任何关系。
+
+koishi-plugin-adapter-ottohub
+OTTOHUB.cn 站内信的连接器
+
+koishi-plugin-adapter-qq-crack
+Q Q B O T 破 解 版
+
+koishi-plugin-adapter-yunhu
+云湖适配器
+
+koishi-plugin-adapter-yunhupro
+Yunhu Adapter
+
+koishi-plugin-admin-tool
+你猜
+
+koishi-plugin-adventure-game
+一个很好玩的（确信）克苏鲁风格文字冒险游戏插件
+
+koishi-plugin-ai-guess-game
+一个基于 AI 生成谜题的 Koishi 猜谜插件。
+
+koishi-plugin-ai-impersonator
+一个Koishi插件，可以读取群成员消息并使用AI进行模仿回复
+
+koishi-plugin-ai-manager
+基于大模型的全自动群组消息审查。汇总消息并进行分析，并根据预设规则，自动对违规消息执行撤回、转发操作，或对违规用户进行禁言或踢出。
+
+koishi-plugin-ai-news
+A Koishi plugin to get today's AI news with multiple sources support
+
+koishi-plugin-ai-painter-helper
+一个多功能的AI绘画辅助插件，可通过LLM生成角色描述或优化绘画Tag，并联动下游绘画插件。
+
+koishi-plugin-ai-style-transfer
+调用星之阁API，将真人照片转换为多种动漫风格。
+
+koishi-plugin-aircraft-image
+通过www.planespotters.net获取指定飞机的图片
+
+koishi-plugin-airuhuo-reply
+输入你好时会回复你如好，带是否包含中文检测
+
+koishi-plugin-aka-60s-api
+调用60s API转发信息的工具 - 个人用
+
+koishi-plugin-aka-ai-generator
+自用AI生成插件(GPTGod & Yunwu)
+
+koishi-plugin-aka-sa-caller
+Koishi 插件，用于集成 Stock Advisor 服务，实现股票分析功能。
+
+koishi-plugin-aka-shitcheck
+搬 屎 行 为 禁 言 裁 定
+
+koishi-plugin-aka-shitchecker
+对群成员进行随机数鉴定并执行禁言
+
+koishi-plugin-aka-tarot
+自用塔罗牌插件
+
+koishi-plugin-aka-xxapi-figurine
+使用xxapi提供的手办化插件
+
+koishi-plugin-aka-yunwu-figurine
+使用云雾API进行多风格图像处理（变手办、变真人、角色设定、二次元）
+
+koishi-plugin-akari-wolframalpha
+[![npm](https://img.shields.io/npm/v/koishi-plugin-akari-wolframalpha?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-akari-wolframalpha)
+
+koishi-plugin-all-commands-help
+/help for more helps
+
+koishi-plugin-all-group-fetcher
+获取所有群组ID的插件
+
+koishi-plugin-all-kinds-of-api
+调用各种各样的api
+
+koishi-plugin-alphalybot
+By Alphaly
+
+koishi-plugin-amolo
+amolo qqbot
+
+koishi-plugin-ancient-strategy
+古代宫廷攻略游戏插件
+
+koishi-plugin-anime-ccb
+二刺螈猜猜呗
+
+koishi-plugin-anime-convention-lizard-vincentzyu-fork
+查询某个城市即将开始的漫展或查询相关动漫的漫展，提供订阅服务
+
+koishi-plugin-anime-convention-lizard2
+查询某个城市即将开始的漫展或查询相关动漫的漫展，提供订阅服务（在原版基础上做了一些优化）
+
+koishi-plugin-anime-search
+根据截图查找番剧-数据来源于trace.moe Api
+
+koishi-plugin-anime-tracemoe
+一款 Koishi 插件，可以调用 trace.moe api 识别图片搜索番剧 
+
+koishi-plugin-another-status-image
+another Status view
+
+koishi-plugin-answerbook-by-rio
+答案之书，随机获取属于你问题的答案
+
+koishi-plugin-anxyjrrp
+[![npm](https://img.shields.io/npm/v/koishi-plugin-anxyjrrp?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-anxyjrrp)
+
+koishi-plugin-api-calls
+各种奇奇怪怪的API调用
+
+koishi-plugin-archive
+群史官，可以让群友自行上传怪话保存，按群组分隔管理
+
+koishi-plugin-aris-chat
+Aris Chat — Koishi plugin for interactive chat/poke features
+
+koishi-plugin-arknights-card
+明日方舟抽卡模拟插件 - 支持限定池、标准池抽卡模拟，包含完整的干员数据和抽卡统计功能
+
+koishi-plugin-arknights-gacha
+（自用）还原明日方舟卡池机制的抽卡模拟器
+
+koishi-plugin-arona-divination
+阿罗娜占卜
+
+koishi-plugin-asmrone
+利用 asmr.one API，在聊天平台中搜索、获取详情并收听音声作品。
+
+koishi-plugin-asn-online-search
+airwaysn模拟飞行平台查询在线机组工具
+
+koishi-plugin-assignee-switch
+自动切换assignee，使用另一种触发时机
+
+koishi-plugin-at-jj
+[![npm](https://img.shields.io/npm/v/koishi-plugin-at-jj?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-at-jj)
+
+koishi-plugin-atis
+atis.report
+
+koishi-plugin-atis-plugin
+[![npm](https://img.shields.io/npm/v/koishi-plugin-atis-plugin?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-atis-plugin)
+
+koishi-plugin-audio-processor
+提供简单易用的语音处理功能，包括变速、倒放、剪辑和合并
+
+koishi-plugin-audiobook-lizard
+获取喜马拉雅有声书资源，支持订阅
+
+koishi-plugin-auth-koishi
+基于koishi内部权限系统的鉴权插件
+
+koishi-plugin-auth-onebot
+基于onebot平台权限系统的鉴权插件
+
+koishi-plugin-auto-assign
+自动负载均衡,参考插件bot，完善Bot不在对应channel处理
+
+koishi-plugin-auto-bomb
+自动炸飞机
+
+koishi-plugin-auto-friend-handler
+自用插件，联动黑名单插件
+
+koishi-plugin-auto-mas
+[![npm](https://img.shields.io/npm/v/koishi-plugin-auto-mas?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-auto-mas)
+
+koishi-plugin-auto-self-recall
+一定时间后自动撤回bot发送的消息
+
+koishi-plugin-auto-tata-group-name
+个人自用,自动更新群聊名称的 Koishi 插件，根据群聊成员数量变化自动更新群名
+
+koishi-plugin-auto-welcome
+【自用插件】机器人入群发送欢迎和成员加入/退出提示，支持文本和自动拼接图片 URL。
+
+koishi-plugin-autochat
+定时自动聊天
+
+koishi-plugin-autofadian
+Autofadian
+
+koishi-plugin-autoglm
+万物皆可bot-AutoGLM-通过电脑连接ADB控制手机ai操作
+
+koishi-plugin-automatic-withdrawal
+一个可以支持机器人定时撤回自身消息的插件
+
+koishi-plugin-autoreplyimage
+ autoreplyimage
+
+koishi-plugin-autowithdraw-fix
+[<ruby>**代理发送消息！**<rp>（</rp><rt>点我查看效果预览图</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/article/585ce85165936462a105f0162b4ddde8312276085.gif) 支持强制回复指令、指令撤回时 自动撤回响应、定时撤回机器人的所有消息。
+
+koishi-plugin-awa-awa
+关键词回复
+
+koishi-plugin-awa-quote-image
+[![npm](https://img.shields.io/npm/v/koishi-plugin-awa-quote-image?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-awa-quote-image)
+
+koishi-plugin-awa-split-msg-element
+qwq-split-awa-element
+
+koishi-plugin-ayatest
+测试插件
+
+koishi-plugin-azur-lane-building
+Koishi 的碧蓝航线建造（抽卡）模拟器插件。
+
+koishi-plugin-ba-setu
+一款获取碧蓝档案涩图的插件
+
+koishi-plugin-back-connection-convey-server
+用于和自建车队平台后端接口联系和处理
+
+koishi-plugin-baka-zaoan
+琳瑟狐的早安晚安插件
+
+koishi-plugin-ban-words
+A Koishi content-filter plugin that reads a TXT dictionary file (one keyword per line), detects/blocks messages, and can recall offending messages.
+
+koishi-plugin-banana-meme
+使用 nano-banana-pro.一键生成gif图
+
+koishi-plugin-banana-pro
+独立webui，可在线拉取预设，支持 DALL-E 和 ChatLuna 的 AI 图片生成插件,可注册为chatluna工具
+
+koishi-plugin-banana-zy
+ziyongcajian
+
+koishi-plugin-bangbangcai
+[<ruby>邦多利卡面猜猜看<rp>（</rp><rt>点我查看效果预览</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/article/198ba51e2b3ffce9b1275a003c87c9dc312276085.png) 角色立绘切分、猜测人物名称 ...
+
+koishi-plugin-bangdream-ccg
+邦多利猜猜歌，支持缓存和别名机制
+
+koishi-plugin-bangumi-daily
+定时推送每日放送番剧，并提供番剧条目搜索和评分分布图表功能
+
+koishi-plugin-bangumi-sub
+Bangumi新番订阅插件！支持查询当日或本周要放送的所有番剧以及到点推送功能。现支持Bangumi链接解析。
+
+koishi-plugin-bantimxiaozi
+自用插件
+
+koishi-plugin-batch-recall
+批量撤回，带数据库，可撤回某某用户的某几条消息，可配置白名单
+
+koishi-plugin-batchkick
+批量踢人插件，支持通过QQ群管理接口批量踢出群成员
+
+koishi-plugin-bawordle
+碧蓝档案Wordle游戏，猜猜是哪个学生（更新至露营真纪）
+
+koishi-plugin-bcjh
+bcjh自用
+
+koishi-plugin-bcjh-gl
+自用bcjh-gl
+
+koishi-plugin-best-cave
+功能强大、高度可定制的回声洞插件。支持丰富的媒体类型、内容查重、AI分析、人工审核、用户昵称、数据迁移以及本地/S3 双重文件存储后端。
+
+koishi-plugin-best-jrrp
+支持真随机的今日人品（运势），可任意自定义消息，支持随机图片，还带有排行、分析、货币等功能。
+
+koishi-plugin-better-maxkb
+Koishi plugin for MaxKB API integration
+
+koishi-plugin-bili-boost
+B站增益插件 - 视频三连、直播点赞等功能
+
+koishi-plugin-bili-link-previewer
+B 站视频信息预览插件：渲染预览图，不用点开也能知道视频内容。 / A Bilibili video preview plugin that renders an image so you can see what the video is about without clicking in.
+
+koishi-plugin-bili-untag
+Subscribe Bilibili miss tagged Video
+
+koishi-plugin-bilian
+bili链接解析
+
+koishi-plugin-bilibili-dynamic-pusher
+Bilibili动态推送，灵感来自[bilibili-notify](https://www.npmjs.com/package/koishi-plugin-bilibili-notify)插件。需要搭配对应的适配器使用哦~
+
+koishi-plugin-bilibili-live-controller
+bilibili直播rtmp获取器，不足5000粉也能用哦
+
+koishi-plugin-bilibili-notify-advanced-subscription
+advanced subscription for bilibili-notify
+
+koishi-plugin-bilibili-notify-advanced-subscription-fork
+advanced subscription for bilibili-notify
+
+koishi-plugin-bilibili-notify-fork
+Koishi bilibili notify plugin
+
+koishi-plugin-bilibili-parser
+解析 bilibili 链接、个人动态和专栏内容
+
+koishi-plugin-bilibili-real-rating
+用于获取b站番剧的由评论计算出的真实评分
+
+koishi-plugin-bilibili-summary
+提取 B 站视频字幕并用 Gemini 生成总结的 Koishi 插件
+
+koishi-plugin-bilibili-tools
+bilibili的各种工具
+
+koishi-plugin-bilibili-video-details
+An easy plugin for showing the detail of avid or bvid or address
+
+koishi-plugin-bilibli-video-data-query
+b站视频数据查询,支持批量查询
+
+koishi-plugin-bilitool
+Koishi Bilibili工具插件：直播点赞、视频AI摘要、一键三连、硬核试炼AI答题
+
+koishi-plugin-bilivoice-cutter
+哔哩哔哩直播切片语音推送插件，支持直播录音分割、语音识别、Koishi 聊天指令等。
+
+koishi-plugin-bing-bing-cat-bot
+冰猫机器人
+
+koishi-plugin-bing-wallpaper
+必应每日壁纸（多分辨率）
+
+koishi-plugin-bingo
+bingo+24点小游戏
+
+koishi-plugin-blacklist-online
+自用插件
+
+koishi-plugin-blhx-wiki-assistant
+一个暂且是拿来自用的碧蓝航线wiki助手，通过对原koishi社区"araea"的代码进行二次开发得来"https://forum.koishi.xyz/t/topic/6571"
+
+koishi-plugin-bljsgj
+用于计算倍率的插件
+
+koishi-plugin-booknews
+It's a plugin for booknews collection
+
+koishi-plugin-booru-derpibooru
+Image service by derpibooru for Koishi
+
+koishi-plugin-bot
+自动切换频道受理人（再也不需要逐个 `assign` 了），同时支持多机器人负载均衡功能
+
+koishi-plugin-botsw
+用指令控制群聊中bot的开关，支持定时开启
+
+koishi-plugin-brial-mkuc
+brial-mkuc
+
+koishi-plugin-bsd
+[![npm](https://img.shields.io/npm/v/koishi-plugin-bsd?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-bsd)
+
+koishi-plugin-bt
+bt
+
+koishi-plugin-btplugin
+bt自用插件
+
+koishi-plugin-bull-card
+Koishi 的斗牛纸牌游戏插件。
+
+koishi-plugin-burn-after-reading
+阅后即焚，群管插件，开启状态下会定时撤回用户发送的所有消息以保护隐私
+
+koishi-plugin-bxg
+往你的群里放一只爆小鬼，检测到敏感言论就会发爆！（有撤回禁言功能）
+
+koishi-plugin-byd-ai
+一个AI插件，提供了统一的对话接口与Function Calling管理工具
+
+koishi-plugin-caidan
+柠檬机器人菜单
+
+koishi-plugin-caidan-wmc
+自用插件
+
+koishi-plugin-caihc
+www.caihc.cn 官方插件
+
+koishi-plugin-calculator
+实现简单的累算计算器功能。
+
+koishi-plugin-calender
+使用聚合数据万年历api的黄历查询
+
+koishi-plugin-carpool-bot
+A plugin that helps game players to find their teams.
+
+koishi-plugin-cat-raising
+[![npm](https://img.shields.io/npm/v/koishi-plugin-cat-raising?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-cat-raising)
+
+koishi-plugin-cbeilvgs
+计算队伍倍率
+
+koishi-plugin-ccb
+踩踩背插件，恶俗慎用
+
+koishi-plugin-ccb-plus
+Koishi插件，与群友发生ccb行为。(移植自astrbot_plugin_ccb_plus)
+
+koishi-plugin-ceshi-command
+测试命令
+
+koishi-plugin-chain
+一个功能完整的 Koishi 接龙插件，支持创建、参与、管理接龙活动
+
+koishi-plugin-charts-eaip
+查询国内eaip航图
+
+koishi-plugin-chat-ai
+可以调用与 OpenAI 客户端兼容的 AI
+
+koishi-plugin-chat-analyse
+强大而全面的聊天数据分析插件。支持多维度统计（命令、发言、消息类型、活跃度），可生成发言排行、词云图，并提供完善的数据管理和 AI 分析功能。
+
+koishi-plugin-chat-archive
+[UNFINISHED] Archive QQ-group menbers' awesome messages, revisiting someday ^o^
+
+koishi-plugin-chat-model
+在没有命令匹配时自动调用大型语言模型进行对话，支持OpenAI、Claude、Gemini等
+
+koishi-plugin-chat-onebot
+chat-onebot - 集成 Stapxs QQ Lite 2.0 到 Koishi 控制台。一个兼容 OneBot 的非官方网页 QQ 客户端。
+
+koishi-plugin-chat-patch
+[<ruby>chat-patch<rp>（</rp><rt>点我预览效果</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/openplatform/71074dfc9e5256fc3333d8bd8478bec1af874046.png) 视奸小插件((bushi( (低性能警告)。手机端适配。灵感来自 chat 插件。
+
+koishi-plugin-chat-relay
+将游戏内聊天记录实时转发到QQ群
+
+koishi-plugin-chat-summarizer
+Koishi聊天记录收集和上传插件
+
+koishi-plugin-chatluna-actions
+customize actions for chatluna
+
+koishi-plugin-chatluna-affinity
+为 ChatLuna Character 提供 {好感度}、{关系}、{日程} 等变量并提供对应的工具调用和低好感自动拉黑功能。
+
+koishi-plugin-chatluna-another-public-api-adapter
+Another public API adapter for ChatLuna, using pearktrue API.
+
+koishi-plugin-chatluna-anuneko-api-adapter
+anuneko API adapter for ChatLuna, using pearktrue API.
+
+koishi-plugin-chatluna-bilibili-summary
+使用 ChatLuna 为 Bilibili 视频生成内容总结
+
+koishi-plugin-chatluna-blt-adapter
+BLT API adapter for chatluna
+
+koishi-plugin-chatluna-deepseek-adapter
+deepseek adapter for chatluna
+
+koishi-plugin-chatluna-dify-adapter
+dify adapter for chatluna
+
+koishi-plugin-chatluna-doubao-adapter
+doubao adapter for chatluna
+
+koishi-plugin-chatluna-embedding
+为 ChatLuna 提供自定义 Embeddings 服务的 Koishi 插件
+
+koishi-plugin-chatluna-exractor
+提取 chatluna-character 输出中特定 XML 标签的内容
+
+koishi-plugin-chatluna-extractor
+提取 chatluna-character 回复中的 XML 标签内容，并通过自定义指令输出
+
+koishi-plugin-chatluna-group-analysis
+一个分析QQ群聊历史并生成精美报告的Koishi插件
+
+koishi-plugin-chatluna-group-analysis-persist
+ChatLuna 群分析持久化插件
+
+koishi-plugin-chatluna-image-service
+image service for chatluna
+
+koishi-plugin-chatluna-long-memory
+long memory for chatluna
+
+koishi-plugin-chatluna-mcp-client
+MCP Client for ChatLuna
+
+koishi-plugin-chatluna-mcp-server
+ChatLuna MCP Server, expose ChatLuna tools as MCP support
+
+koishi-plugin-chatluna-onebot-agent
+ChatLuna Onebot 平台的扩展工具
+
+koishi-plugin-chatluna-plugin-jmcomic
+Chatluna-JM-API
+
+koishi-plugin-chatluna-preset-editor
+A preset editor for Chatluna
+
+koishi-plugin-chatluna-public-api-adapter
+Public API adapter for ChatLuna
+
+koishi-plugin-chatluna-smash-or-pass-ai
+Smash or Pass AI powered by the large language model in chatluna
+
+koishi-plugin-chatluna-spark
+为 ChatLuna 添加主动对话能力的 Koishi 插件，支持定时提醒、节日问候、主动聊天等功能
+
+koishi-plugin-chatluna-storage-service
+storage service for chatluna
+
+koishi-plugin-chatluna-think-viewer
+通过命令/关键词查看 chatluna-character 最近一次回复的 <think> 思考内容，并在消息格式异常时自动拦截/撤回。
+
+koishi-plugin-chatluna-tool-agent
+让大模型自动选择并执行 Koishi 指令（ChatLuna/OpenAI 兼容），内置白名单与安全控制。
+
+koishi-plugin-chatluna-variable-extension
+variable extension for ChatLuna
+
+koishi-plugin-chatluna-variable-extension-new
+扩展chatluna内置变量
+
+koishi-plugin-checkin-custom
+一个高度可配置的、支持多类型打卡和独立排行榜的 Koishi 插件。
+
+koishi-plugin-checkin-lec
+lec打卡系统
+
+koishi-plugin-checktime
+测试用插件，查看当前时间/日期
+
+koishi-plugin-chemical-captcha
+基于onebot的新人入群时的人机验证，但是化学分子质量。
+
+koishi-plugin-chemistry-exam
+刷题（化学模式）
+
+koishi-plugin-chip-search
+a plugin for you to search the chip by the api
+
+koishi-plugin-chiral-carbon-captcha
+onebot 入群验证，但是手性碳
+
+koishi-plugin-chuoyichuo
+chuo
+
+koishi-plugin-ciyi
+Koishi 的词意（猜词游戏）插件。根据词语的含义相似程度，猜测正确的词语。
+
+koishi-plugin-cksj
+查看时间
+
+koishi-plugin-clag
+功能丰富的禁言插件，提供了多种手动和自动禁言模式，增加了群组管理的趣味性和多样性。
+
+koishi-plugin-clear-channel-assignee
+清空assign代理人（其实是直接删除channel表）
+
+koishi-plugin-cline
+model context protocol client
+
+koishi-plugin-clipboard
+收到指定命令后，用剪贴板上的内容回复。
+
+koishi-plugin-cloudatlas
+天庭-云图。精美签到系统，联动通用经济、银行系统，3000+事件，QQ入典功能，完备的钓鱼系统，狗运系统：大乐透、刮彩票、高数彩票。
+
+koishi-plugin-cloudbot
+CloudCraft 官方插件,需要连接到百度千帆
+
+koishi-plugin-cloudurlv
+[![npm](https://img.shields.io/npm/v/koishi-plugin-cloudurlv?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-cloudurlv)
+
+koishi-plugin-cmd-reaction
+为触发指令的消息添加回应表情,适用于QQ群消息【自用】
+
+koishi-plugin-coc-dnd-dice
+多功能跑团（TRPG）骰点插件，内置对《克苏鲁的呼唤》（CoC7）和《龙与地下城》（D&D5E）等多种规则的支持。
+
+koishi-plugin-cocdice
+[![npm](https://img.shields.io/npm/v/koishi-plugin-cocdice?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-cocdice)
+
+koishi-plugin-cocoyyy-console
+自用koishi插件，功能包含复读，记录黑历史，*人等
+
+koishi-plugin-codeforces-card
+based on user's cf homepage generate codeforces card
+
+koishi-plugin-codegang-jf
+专业积分管理插件
+
+koishi-plugin-codeup-webhook
+阿里云CodeUp仓库Webhook推送通知插件
+
+koishi-plugin-collect-user-img
+搜集指定用户的图片并保存
+
+koishi-plugin-college-schedule
+这是一个用于管理大学课程表的 Koishi 插件，支持添加、查看、删除课程，并生成课表图片。
+
+koishi-plugin-comfy-drawer
+通过连接本地ComfyUI服务器，实现专业的AI绘画功能。
+
+koishi-plugin-comfy-i2v
+调用 ComfyUI，根据图片和提示词生成一段短视频。
+
+koishi-plugin-comfy-indextts
+调用 ComfyUI 的 IndexTTS-2 节点，通过文本和参考音频生成语音。
+
+koishi-plugin-comfy-tagger
+调用 ComfyUI 的 WD14 Tagger 节点，反推图片的提示词 (tags)。
+
+koishi-plugin-comfyclient
+ComfyUI client plugin for Koishi supporting text-to-image and image-to-image workflows.
+
+koishi-plugin-comfyui-client
+一个Koishi适用的ComfyUI客户端插件
+
+koishi-plugin-comfyui-kontext
+支持图生图与图生视频的 Koishi 插件，基于 ComfyUI + DeepSeek
+
+koishi-plugin-comfyui-workflow
+一个Koishi适用的ComfyUI客户端插件，支持多工作流
+
+koishi-plugin-comic-get
+test
+
+koishi-plugin-command-interceptor
+Intercept commands according to the rules
+
+koishi-plugin-command-limiter
+限制群聊内命令执行速度
+
+koishi-plugin-commands-cao
+[<ruby>**THE FUCK**<rp>（</rp><rt>纠正命令</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/openplatform/85c82bad2b27c6f18dac0d12fdcd4b53a81edd26.png)  当你输错命令时，只需触发 `fuck` 指令，就能帮你找到并执行正确的命令。
+
+koishi-plugin-companysystem
+自用的一款机器人公司模拟插件
+
+koishi-plugin-congratulation-generater
+生成喜报
+
+koishi-plugin-content
+可高度配置的内容获取，用于发送本地或网络上的自定义内容，可自由创建与配置命令。
+
+koishi-plugin-continued-spark
+与QQ好友每日进行续火花，自用
+
+koishi-plugin-cookies
+7ke7ke账号
+
+koishi-plugin-corncat-sign
+null
+
+koishi-plugin-countdown-clock
+Setup an countdown clock and notify the user after a period of time.
+
+koishi-plugin-crypot-bot
+BTC
+
+koishi-plugin-csh
+1
+
+koishi-plugin-curfew
+宵禁插件
+
+koishi-plugin-curl-get
+一个 Koishi 插件，可以发送 curl 请求，支持绑定命令、Cookie、User-Agent，并返回响应结果。
+
+koishi-plugin-curriculum-table
+[<ruby>群友课程表<rp>（</rp><rt>点我查看效果示例</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/article/3cd43011f330ee77f9cf6ac7f8d8308a312276085.png) 💾支持[定时触发课程表](https://i0.hdslb.com/bfs/article/df4c68e2ad6406d2fd27b6bf8d1c5322312276085.png) 。支持[从wakeup课程表快速导入你的课表]
+
+koishi-plugin-custom-information-listing
+一个可以自定义录入信息并可以返回自定义信息的插件(目前自用,你们用也行),主要是为了游戏的黑/白名单统计
+
+koishi-plugin-custom-json
+一个用于发送QQ自定义卡片消息的 Koishi 插件，基于 LLOneBot HTTP API
+
+koishi-plugin-custom-reply-v
+可以自定义关键词并且自动回复内容的插件，支持冷却时间
+
+koishi-plugin-customdraws
+可自定义的抽奖插件
+
+koishi-plugin-customize-link
+可以让你的BOT发送你自定义的链接
+
+koishi-plugin-cyber-scout
+developing
+
+koishi-plugin-daily-animation-recommend
+每日动漫推荐
+
+koishi-plugin-daily-anime-history
+历史上的今天与节假日推送插件
+
+koishi-plugin-dailynews
+定时发送每日新闻的 Koishi 插件，使用 60s API 获取新闻内容
+
+koishi-plugin-danmaku-board
+A real-time danmaku (bullet comments) board that syncs QQ group messages, perfect for events and live shows
+
+koishi-plugin-database-qa
+一个用于Koishi的数据库QA查询插件，支持简繁转换、模糊查询和正则匹配
+
+koishi-plugin-deduction
+自用
+
+koishi-plugin-deepseek-ai
+一个可以使用deepseek-ai的插件，支持预设
+
+koishi-plugin-deepseek-ai-adapter
+byd-ai插件的DeepSeek平台适配器
+
+koishi-plugin-deepseek-cosplay
+让deepseek模拟你想要的人物角色
+
+koishi-plugin-deepseekchat
+用deepseek聊天的插件
+
+koishi-plugin-deerpipe-qbot
+炉管新插件，支持大乱斗！
+
+koishi-plugin-default-auth-zero
+将初次加入/未设定权限的 OneBot(QQ) 用户权限统一设置为 0，用于 Koishi 权限基线管理。
+
+koishi-plugin-default-reply
+给机器人加上默认回复！
+
+koishi-plugin-delaywelcome
+延迟欢迎新成员加入群组，避免连续刷屏
+
+koishi-plugin-delete-message
+A command for deleting message
+
+koishi-plugin-deltaforce-simulator
+A deltaforce simulator plugin for Koishi
+
+koishi-plugin-demo-ljh
+这是我的demo文件
+
+koishi-plugin-demo01
+学习用的demo插件
+
+koishi-plugin-dev-tool
+开发辅助：支持管理、操作数据库表，快捷操作 OneBot API（查询信息、获取资源、发包等），解析消息，监听事件等实用指令
+
+koishi-plugin-df-helper
+自用
+
+koishi-plugin-df-helper2
+自用
+
+koishi-plugin-dialect-game
+一款方言接龙插件
+
+koishi-plugin-dialogue-image
+图片版dialogue插件。基于图片的主要视觉特征生成哈希值。仅支持图片作为问题。
+
+koishi-plugin-dialogue-webui
+也许是dialogue插件的webui版本（？）灵感来自 word-core 插件
+
+koishi-plugin-dice-draw
+一个用于 Koishi 的牌堆抽取插件，支持加权抽取、不放回抽取、云端牌组等功能
+
+koishi-plugin-dice-plugin
+让机器人决定你做什么，移植自YumuBot
+
+koishi-plugin-dify
+Integrating Dify.AI in Koishi
+
+koishi-plugin-dify-tool
+koishi的dify适配
+
+koishi-plugin-disaster-warning
+Koishi 灾害预警插件，支持多数据源（地震、海啸、气象预警）
+
+koishi-plugin-dispose-group
+机器人管理员私聊退群并发送自定义文本的插件。[点我查看使用方法](https://github.com/DoomVoss/Koishi-Plugins-CBS/tree/main/plugins/dispose-group)
+
+koishi-plugin-dlsite-info
+通过RJ号，获取dlsite网站的作品信息。
+
+koishi-plugin-do-naicha
+我爱做奶茶小游戏，希望你喜欢玩
+
+koishi-plugin-doc-chatbot
+Make knowledge-based conversations using RAG.
+
+koishi-plugin-docker-control
+Koishi 插件 - 通过 SSH 控制 Docker 容器 (支持连接池、缓存、权限控制、审计日志)
+
+koishi-plugin-douyin-dl
+koishi plugin for douyin download tool
+
+koishi-plugin-douyin-myfinal
+抖音链接解析插件,本来想加一点点东西的，后来看了一圈发现没得加，原插件koishi-plugin-douyin
+
+koishi-plugin-douyin-parser
+解析抖音，tiktok链接(需自行部署API)
+
+koishi-plugin-douyin-parsing
+解析抖音链接，支持直接发送视频（无需自行配置API）
+
+koishi-plugin-douyinjiexi
+抖音视频解析，支持自动识别，现已支持返回更多内容
+
+koishi-plugin-dpsk-chat-filter
+搭配插件chatluna-deepseek-adapter使用，过滤掉收到的图片和表情内容，顶替回复
+
+koishi-plugin-drama-search
+短剧搜索插件，支持搜索短剧、查看详情、翻页等功能
+
+koishi-plugin-draw-lots
+创建一个存储多个图片路径的数组，接受命令后从随机一个路径下取一个随机图片发送（多次导入同一路径即可提高权重）。让美少女帮你抽签查看今日的运势
+
+koishi-plugin-draw-picture
+一个stable-diffusion绘画插件
+
+koishi-plugin-drawluna
+Image generation plugin using OpenAI DALL-E API
+
+koishi-plugin-dreaw-book-ding
+预约
+
+koishi-plugin-drf
+draw math function in your group
+
+koishi-plugin-ds-r-c
+Koishi 的 DeepSeek AI 聊天插件。
+
+koishi-plugin-duel
+与群友发起决斗！决斗时机器人会在随机时间发送“开始”，谁最先发送“开枪”谁就获得决斗的胜利！
+
+koishi-plugin-duolingo
+多邻国信息查询插件。
+
+koishi-plugin-easytier
+Easytier节点状态查询
+
+koishi-plugin-eat-what-pro
+用于 koishi 的今天吃什么
+
+koishi-plugin-echo-cave
+Group echo cave
+
+koishi-plugin-echo-dsxiaoyi
+一个能自定义收到消息并回复的插件
+
+koishi-plugin-echo-test
+测试用插件
+
+koishi-plugin-echou-numberlun
+论证一个数字，生成的算式中只包含114514，好啊很好啊1.0.8
+
+koishi-plugin-economic-system
+a
+
+koishi-plugin-economy-master
+自用，请勿下载，下载了也不能用，有部份依赖是我二改的
+
+koishi-plugin-edge-seeker
+ENC_Euphony Personal Use Plugin
+
+koishi-plugin-eggy
+蛋仔社区用
+
+koishi-plugin-eggycollege
+Eggy!
+
+koishi-plugin-eggyhub
+eggyhub用
+
+koishi-plugin-ehentai-comics
+一个用于在 E-Hentai/ExHentai 上搜索和下载漫画的 Koishi 插件
+
+koishi-plugin-email-sender
+Koishi 邮件发送插件，支持多收件人、HTML格式和附件
+
+koishi-plugin-emit-blacklist
+黑名单插件
+
+koishi-plugin-emoji-like
+QQ表情回应/贴表情插件，支持关键词匹配和随机触发，表情库为QQ表情和Emoji表情。目前仅在 LLOneBot 下测试，需启用 HTTP 服务。
+
+koishi-plugin-emojiluna
+Smart emoji management plugin with AI categorization
+
+koishi-plugin-emojis
+合并emoji表情
+
+koishi-plugin-empire-simulation
+帝国模拟，本质是收菜、商店等小游戏合集
+
+koishi-plugin-engage-kiss
+契约之吻文字互动游戏插件 - 增强版
+
+koishi-plugin-engage-kiss-game
+契约之吻文字互动游戏插件
+
+koishi-plugin-eod-3-forward
+✨自用消息转发✨
+
+koishi-plugin-eod-4-translate
+翻译反应消息
+
+koishi-plugin-eod-6-pixel
+像素检测报警请求接收
+
+koishi-plugin-equery
+山东大学青岛校区宿舍剩余电量查询
+
+koishi-plugin-equestria-daily
+从equestria daily获取信息并推送
+
+koishi-plugin-erokin-ai-chat
+一个可以接入AI大模型的bot插件
+
+koishi-plugin-error-book
+错题本插件，用来应付QQ官方机器人过审
+
+koishi-plugin-eula-regen
+EULA(End-user licence agreement) for your koishi bot.
+
+koishi-plugin-eval-ctx
+在koishi的上下文中执行代码
+
+koishi-plugin-eval-unsafe
+Command to debug Koishi with JavaScript
+
+koishi-plugin-event-client
+event client
+
+koishi-plugin-event-server
+event server
+
+koishi-plugin-evocalrank
+周刊VOCALOID中文排行榜查询
+
+koishi-plugin-examplejggtest
+jggtest
+
+koishi-plugin-exg-luntan
+自用
+
+koishi-plugin-exg-mapcd
+自用，不建议下载
+
+koishi-plugin-exg-mingren
+自用，不推荐下载
+
+koishi-plugin-fake-message
+伪造消息，可用于恶搞群友或好友
+
+koishi-plugin-fanqie
+处理番茄小说
+
+koishi-plugin-fanqieapi
+下载
+
+koishi-plugin-fanqieapip
+[![npm](https://img.shields.io/npm/v/koishi-plugin-fanqieapi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-fanqieapi)
+
+koishi-plugin-fastapicall
+快捷调用api，教程：www.fjgjkg.xyz/jc.html
+
+koishi-plugin-fate
+A koishi plugin for fortune telling and sign in.
+
+koishi-plugin-feishu-form-audit
+feishu-form-audit
+
+koishi-plugin-file-founder
+Koishi插件，借助llm实现本地文件模糊搜索并发送
+
+koishi-plugin-filebeimyd
+文件自动保存
+
+koishi-plugin-filter
+event client
+
+koishi-plugin-fimtale-api
+Koishi插件，从fimtale搜索/订阅/随机获取小说/解析链接等
+
+koishi-plugin-finance-manager
+一个功能完整的 Koishi 记账插件，支持数据持久化存储、预算管理、可视化报表等功能。
+
+koishi-plugin-fing-introduce
+普通的介绍插件
+
+koishi-plugin-fing-points
+私用的积分插件
+
+koishi-plugin-fish-audio-tts
+Text-to-speech via Fish Audio API
+
+koishi-plugin-fishaudio-vits
+Text-to-speech via Fish Audio API
+
+koishi-plugin-fishing-game
+功能丰富的钓鱼插件，包含钓鱼、背包、商店和图鉴系统
+
+koishi-plugin-flarum
+functions about flarum 
+
+koishi-plugin-flower
+飞花令工具
+
+koishi-plugin-flower-shop
+一个花店经营主题的文字游戏插件
+
+koishi-plugin-fonts
+Font Manager for Koishi
+
+koishi-plugin-force-quote
+强制修改机器人的消息，引用原消息
+
+koishi-plugin-forgejo-webhook
+forgejo webhook
+
+koishi-plugin-form-team
+自用于寻找组队队友
+
+koishi-plugin-forward-jfg
+自用转发插件
+
+koishi-plugin-forward-whitelist-self
+消息转发插件,群-->群/人,白名单策略,可设置时间间隔
+
+koishi-plugin-frandre-danmu
+接收消息并转发到弹幕服务器(元火动漫社的弹幕姬2.0服务器)
+
+koishi-plugin-free-moda
+免费画图插件，实现chatluna工具注册、模型单独注册成指令、API Key 轮询、AI 生成提示词、自动识别分辨率、查询记录、收藏图片seed快速重绘、支持自定义输出模板
+
+koishi-plugin-free-monetary
+免费货币分发插件，支持签到累加货币和刷新每日额度两种奖励模式
+
+koishi-plugin-frk-plugin
+:D
+
+koishi-plugin-fudu
+[![npm](https://img.shields.io/npm/v/koishi-plugin-fudu?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-fudu)
+
+koishi-plugin-funcmgr
+管理koishi在群内的功能
+
+koishi-plugin-fuzzy-search
+提供对参数进行模糊匹配的服务
+
+koishi-plugin-ga-zhii
+test
+
+koishi-plugin-galgame
+一个融合Galgame和AI的Koishi插件，通过对话提升好感度解锁不同人格
+
+koishi-plugin-gallery
+一个使用本地存储图片的图库
+
+koishi-plugin-gbgba-workmanager
+用于自己管理工单以及开发人员上报状态
+
+koishi-plugin-gcard-keeper
+检测群名片修改并发送通知，并能自动修改回设定名片（Bot）与原名片（群员），支持正则表达式配置违禁词
+
+koishi-plugin-gemini-banana
+[使用 gemini-banana 转换图片（ai爆改自lmarena）]多功能 AI 图像处理插件，支持手办化、Coser化、Minecraft化等多种风格转换，并提供自定义提示词和多图融合功能
+
+koishi-plugin-get-apikey
+apikey分发生成系统
+
+koishi-plugin-get-biliuser-medals
+B站粉丝勋章查询插件，支持文本和图片两种显示模式
+
+koishi-plugin-get-groupmembers
+获取成员列表
+
+koishi-plugin-get-telegram-sticker
+获取telegram贴纸
+
+koishi-plugin-get-zmfans-password
+自用
+
+koishi-plugin-getmessage
+a plugin for me to get message from school
+
+koishi-plugin-gif-hasten
+koishi插件,用于加速gif表情。
+
+koishi-plugin-giftcard
+给Koishi增加进群卡密
+
+koishi-plugin-gipas
+[![NPM version](https://img.shields.io/npm/v/koishi-plugin-gipas?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-gipas) [![koishi](https://img.shields.io/badge/koishi-%5E4.17.2-blue?style=flat-square)](https://koishi.chat/)
+
+koishi-plugin-gipas-mute
+Koishi最伟大，灵活的定时禁言插件
+
+koishi-plugin-git-webhook-anixuil-plugin
+Koishi 插件：处理 GitHub/Gitee/GitLab Webhook 事件
+
+koishi-plugin-github-fixed
+A fork version of koishi-plugin-github with some fixes and improvements.
+
+koishi-plugin-github-fork
+GitHub Toolkit for Koishi [Fork]
+
+koishi-plugin-github-webhook
+github webhook
+
+koishi-plugin-github-webhooks
+支持 Github Webhook 推送
+
+koishi-plugin-gitlab-webhook
+gitlab webhook
+
+koishi-plugin-gl-bot
+GleamSlime Koishi Rebot Plugins
+
+koishi-plugin-glm4-chat
+智谱AI GLM-4-flash模型聊天插件
+
+koishi-plugin-glyph
+Glyph Manager for Koishi
+
+koishi-plugin-gomoku
+A Gomoku (Five in a Row) game plugin for Koishi
+
+koishi-plugin-good-morning-and-night
+Koishi 早晚安插件 - 可爱的问候插件喵~
+
+koishi-plugin-gouqi-acgnai-voice
+对接gsv-acgnai-top的语音接口
+
+koishi-plugin-gouqi-band-yarou
+模仿smash插件的组乐队插件
+
+koishi-plugin-gouqi-bandori-gacha
+bandori抽卡小游戏
+
+koishi-plugin-gouqi-base
+一些核心方法
+
+koishi-plugin-gouqi-hailuo-tts-bridge
+自用对接海螺网页生成语音的插件
+
+koishi-plugin-gouqi-image-edit
+自用图片修改插件
+
+koishi-plugin-gouqi-image-tukuai
+搬运一个tukuai的画图接口
+
+koishi-plugin-gouqi-impage-prompt-enhancer
+使用AI优化和补全AI绘画提示词
+
+koishi-plugin-gouqi-kagarise-pow-modify
+参考kagarise/pow，修改一些转发逻辑
+
+koishi-plugin-gouqi-mgqp-group-new-member-notification
+勇战群，给新群友发通知
+
+koishi-plugin-gouqi-novelai-generate-image
+Generating image using NovelAI
+
+koishi-plugin-gouqi-picture-collactor
+自用保存图片的插件
+
+koishi-plugin-gouqi-pixai
+接入pixai画图
+
+koishi-plugin-gouqi-poetry-test
+A demo for poetry testing
+
+koishi-plugin-gouqi-pollinations-image
+对接pollinations画图
+
+koishi-plugin-gouqi-siliconflow-image
+对接硅基流动实现画图
+
+koishi-plugin-gouqi-smash
+smash插件
+
+koishi-plugin-gouqi-sora
+用于对接sora生成视频
+
+koishi-plugin-gouqi-translator-yd
+利用某个神秘的有道翻译接口，实现中英互译
+
+koishi-plugin-gouqi-voice-forward
+向群或者好友发送语音
+
+koishi-plugin-gpa
+基于北京大学百分制绩点计算公式，支持百分制、五级制、两级制混合输入的 GPA 计算器
+
+koishi-plugin-gpt-sovits-v2-api
+Adapter for GPT-SoVITS v2
+
+koishi-plugin-gpt4o-mini-image
+Koishi 插件：基于 GPT-4o-mini 的文字生成图片（带限流+配置页面）
+
+koishi-plugin-grocer
+买菜插件
+
+koishi-plugin-group-analysis
+一个分析QQ群聊历史并生成精美报告的Koishi插件
+
+koishi-plugin-group-analysis-alone
+Fork 自 ChatLunaLab/chatluna-group-analysis，移除 ChatLuna 依赖的独立群聊分析插件。
+
+koishi-plugin-group-approval
+群组验证插件
+
+koishi-plugin-group-assistant
+群聊管理
+
+koishi-plugin-group-control
+Koishi群聊自管理插件，支持自定义机器人进群消息、被踢出自动拉黑、刷屏自动屏蔽功能和主动退群指令等。(仅支持OneBot适配器)
+
+koishi-plugin-group-counter
+查询机器人所在群及人数，可自定义查询范围。[点我查看使用方法](https://github.com/DoomVoss/Koishi-Plugins-CBS/tree/main/plugins/group-counter)
+
+koishi-plugin-group-curfew
+群管理宵禁功能，每日定时开启与解除全员禁言。[点我查看使用方法](https://github.com/DoomVoss/Koishi-Plugins-CBS/tree/main/plugins/group-curfew)
+
+koishi-plugin-group-inspector
+根据QQ等级、是否在其他群、是否重复加群等条件拒绝入群申请，可以防广告
+
+koishi-plugin-group-join-verifier
+入群计算验证的 Koishi 插件
+
+koishi-plugin-group-meme
+测试中，快捷添加群组表情包/关键词回复
+
+koishi-plugin-group-memo
+一个简单的群组备忘录 koishi 插件。
+
+koishi-plugin-group-monitor
+对分享，视频，关键字撤回，可以对群单独设置白名单
+
+koishi-plugin-group-notice
+让机器人在onebot平台发公告吧
+
+koishi-plugin-group-notice-shion
+A plugin for sending message 
+
+koishi-plugin-group-reminder
+给我进通知群
+
+koishi-plugin-group-request-manager
+A Koishi plugin to manage group invitation requests from OneBot.
+
+koishi-plugin-groupchat-forwarding
+在指定的qq群或者私聊中监听发送的聊天记录，并转发给指定的qq群或者私聊
+
+koishi-plugin-grouphelper
+带有webui的功能全面的群管插件
+
+koishi-plugin-grouphelper-lite
+群管理插件，提供踢人、禁言等功能，自用精简版
+
+koishi-plugin-groupmemberexport
+导出群成员列表并根据正则表达式分类
+
+koishi-plugin-groupmemberreminder
+提醒未进通知群的群成员
+
+koishi-plugin-gsc-checkin
+gsc微信小程序自动签到
+
+koishi-plugin-guild-settings
+提供一个可供其他插件使用的、层级化的群聊配置服务
+
+koishi-plugin-guild-settings-manager-webui
+A Web UI for managing guild-settings in Koishi.
+
+koishi-plugin-guiyereply3
+i3群消息回复
+
+koishi-plugin-gy
+自用
+
+koishi-plugin-gy-douyin
+自用
+
+koishi-plugin-gy-gongdan
+自用
+
+koishi-plugin-gy-guanli
+自用
+
+koishi-plugin-gy-invite
+自用
+
+koishi-plugin-gy-mail
+自用
+
+koishi-plugin-gy-pay
+自用
+
+koishi-plugin-gy-shot
+自用
+
+koishi-plugin-gy-userauth
+自用
+
+koishi-plugin-gy-yanzheng
+自用
+
+koishi-plugin-gybot
+自用
+
+koishi-plugin-gyyg-cet4vocabulary
+一个能输出英语四级词汇的插件，群聊中偷偷背英语，卷死群友。
+
+koishi-plugin-gyyg-jinriniuchang
+看看今天你的牛牛多长
+
+koishi-plugin-gyyg-mixsearch
+一个聚合热搜查询插件，能够输出B站、微博、抖音、知乎的实时热搜，并支持开关指定平台热搜搜索功能。QQ官方机器人可用
+
+koishi-plugin-gyyg-randompic
+随机输出自选路径下的图片，图片格式支持jpg,jpeg,png,gif
+
+koishi-plugin-gz-loliyc
+[![npm](https://img.shields.io/npm/v/koishi-plugin-gz-loliyc?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-gz-loliyc)
+
+koishi-plugin-habit-tracker
+一个功能完整的 Koishi 插件，用于帮助用户创建和管理个人习惯，并打卡记录习惯完成情况。
+
+koishi-plugin-hadesbot-lite
+[![npm](https://img.shields.io/npm/v/koishi-plugin-hadesbot-lite?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-hadesbot-lite)
+
+koishi-plugin-haiyouduoshaoqian
+查询望月站余额
+
+koishi-plugin-hajimi
+哈基米语编码器
+
+koishi-plugin-hajimi-lizard
+给你的色图打上哈基米马赛克，并提供可调用的打码服务
+
+koishi-plugin-heihe
+全功能语音机器人插件，支持语音对话、点歌功能和Web控制面板
+
+koishi-plugin-hello-jmcomic
+获取jm漫画，真的能用！使用前请先部署后端！！[<ruby>**点我看后端教程**</ruby>](https://github.com/LingLambda/JMComic-Api)
+
+koishi-plugin-hello-rainbow
+获取今日或最近天气
+
+koishi-plugin-help-image
+以图片形式展示help的内容
+
+koishi-plugin-help-redirect
+Koishi插件，当/help不带参数时，重定向到的其它指令。
+
+koishi-plugin-hereditas
+New beginnings from your old koishi configurations
+
+koishi-plugin-hero-search
+我才是真正的英雄！一键通过图片反查原图出处，基于 SauceNAO 的图源搜索 API。可查插画和本子。
+
+koishi-plugin-hhs-huatu
+Generate images by diffusion models
+
+koishi-plugin-hhs-tag
+用txt文件储tag。
+
+koishi-plugin-hidden-word
+将秘密信息隐藏在普通文本中 来源于[hidden-word](https://github.com/Ackites/hidden-word)
+
+koishi-plugin-history-of-today
+历史上的今天
+
+koishi-plugin-historychat-images-save
+采用onebot适配器,可以通过交互的方式批量保存聊天记录中的所有图片
+
+koishi-plugin-homeassistant
+HomeAssistant for koishi
+
+koishi-plugin-honghuang
+洪荒-全能修仙系统 V4.0 五界史诗巨构 全物品全地点ai式沙盒，中国沉浸式玄幻修仙。图片全覆盖-面板、商店、背包...受支持的ai生图功能
+
+koishi-plugin-hoogle
+Lookup hoogle for haskell variables.
+
+koishi-plugin-how-to-cook
+Get random recipes & learn how to cook it
+
+koishi-plugin-ht-loliy
+loliy画图移植，自用
+
+koishi-plugin-huaqi-post
+huaqi_post
+
+koishi-plugin-huli-money
+huli-money
+
+koishi-plugin-huohuo-music
+这是一个星穹铁道藿藿的点歌插件
+
+koishi-plugin-hupohuhu-tupian
+kon!This is a customed image generate frontend
+
+koishi-plugin-hykmax-get26kaoyanmath
+简易考研每日一题
+
+koishi-plugin-icp-query
+实时ICP备案查询，数据来源：beian.miit.gov.cn
+
+koishi-plugin-ics-alert
+A alert service for ics calendars
+
+koishi-plugin-idle-kick
+手动或自动踢出长时间未发言的群友
+
+koishi-plugin-idlecloud-img2img
+基于 IDLECLOUD API 的图像生成插件，支持文生图和图生图功能
+
+koishi-plugin-ignore-space
+忽略特定指令与特定参数之间的空格，可配置对于艾特和引用内容的处理
+
+koishi-plugin-ihome
+监控插件，自用
+
+koishi-plugin-ihome-crawler
+自用iHome插件
+
+koishi-plugin-iirose-subscribe
+适用于的[IIROSE蔷薇花园](https://iirose.com/)的订阅房间
+
+koishi-plugin-im-doctor
+你是否曾经有过当医生的梦想？来试试这个插件，你将扮演医生与AI扮演的病人进行对话，看看你能不能成功猜出病人所得的疾病！
+
+koishi-plugin-image-lookup
+图片检索：支持 SauceNAO 与 ascii2d 回退
+
+koishi-plugin-image-packer
+一个可以打包图片并转换成 PDF 的 koishi 插件。
+
+koishi-plugin-image-pkg
+图片服务合集
+
+koishi-plugin-image-scanning
+百度图片扫描
+
+koishi-plugin-image-selecter
+A powerful Koishi plugin for random image/video sending and user image storage with alias system support
+
+koishi-plugin-imageprocessor
+图片处理
+
+koishi-plugin-img-tool
+modify img
+
+koishi-plugin-impart
+![Github](https://socialify.git.ci/Camvanaa/ImpartPlugin/image?font=Inter&language=1&name=1&owner=1&pattern=Charlie+Brown&stargazers=1&theme=Auto)
+
+koishi-plugin-imx
+Mix-Space Bot for Koishi - 集成多种功能的聊天机器人插件
+
+koishi-plugin-indextts
+index-tts support
+
+koishi-plugin-inf-verifier
+基于mysql数据库的游戏ID入群自动验证的koishi插件
+
+koishi-plugin-infoflow-adapter
+如流适配器
+
+koishi-plugin-interactive
+多功能互动型QQ机器人插件，支持猜数字、每日签到、幸运抽奖、积分商店、排行榜、成就系统、个人资料、随机互动、将军系统、修仙系统、每日提醒等功能
+
+koishi-plugin-intercept
+拦截bot的信息，接入ai可实现赋予ai不回复的权力。
+
+koishi-plugin-introduct-lec
+简介 lec
+
+koishi-plugin-invitegroup
+[![npm](https://img.shields.io/npm/v/koishi-plugin-invitegroup?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-invitegroup)
+
+koishi-plugin-ipconfig
+用于获取本机ipconfig信息
+
+koishi-plugin-isolate-loader
+Isolation & Interception Loader for Koishi v4
+
+koishi-plugin-isthattrue
+事实核查插件 - 使用多Agent LLM验证消息真实性
+
+koishi-plugin-jav-m4
+test
+
+koishi-plugin-javbus-random
+JavBus 来部好片
+
+koishi-plugin-jellyfin
+连接 Jellyfin，支持用户注册、库内搜索等功能,node-fetch选择2.7.0
+
+koishi-plugin-jellyfin-reforge
+连接 Jellyfin，支持用户注册、库内搜索等功能
+
+koishi-plugin-jf-koishi
+自用插件
+
+koishi-plugin-jfbot
+自用
+
+koishi-plugin-jianquan
+一款机器人鉴权插件（自用）
+
+koishi-plugin-jiazhuozha
+基于用户头像生成“你要被夹”、“你要被捉”与“你要被炸”的图片。
+
+koishi-plugin-jinrishici
+今日诗词，来自《一言·古诗词API》，随机返回古诗词名句
+
+koishi-plugin-jkl-sub-get
+无说明且自用
+
+koishi-plugin-jm-cover
+下载指定的jm封面
+
+koishi-plugin-jm-downloader
+开发中
+
+koishi-plugin-jm-get-demo
+test
+
+koishi-plugin-jm-info4thousand
+获取禁漫本子信息
+
+koishi-plugin-jm-pdf
+禁漫pdf下载
+
+koishi-plugin-jm2pdf
+开箱即用无需代理，通过JM号获取禁漫本子并发送pdf或zip文件（可加密），需要安装python
+
+koishi-plugin-jmapi-a
+jm漫画下载插件（需要后端）
+
+koishi-plugin-jmbot
+Robot to help download comics
+
+koishi-plugin-jmcomic
+
+
+koishi-plugin-jmcomic-api
+JM-API
+
+koishi-plugin-jmcomic-crawler
+又一个JM本子下载插件
+
+koishi-plugin-jmcomic-crawler-for-thousand
+jmcmoic
+
+koishi-plugin-jmcomic-crawler114
+禁漫搬运插件
+
+koishi-plugin-jmcomic-fz
+test
+
+koishi-plugin-jmcomic-pdf
+Koishi plugin for generating and sending JM comic PDFs.
+
+koishi-plugin-jmcomic-search
+返回封面+标题（前端）
+
+koishi-plugin-jmcomic-thousand
+搬运jm本子
+
+koishi-plugin-jmdown
+A jmdown plugin for koishi
+
+koishi-plugin-jmdownloader
+jm
+
+koishi-plugin-jmdowns
+A jmdown plugin for koishi
+
+koishi-plugin-jmlibrary
+[练手用]一本好书
+
+koishi-plugin-jmluna
+jm搜索下载插件
+
+koishi-plugin-jmtools
+onebot的精满小工具
+
+koishi-plugin-jqrdqtx
+给你的机器人设置到期时间，到期时间查询，到期自动提醒与停机的功能
+
+koishi-plugin-jrrp-2333pro
+2333用的签到加积分插件，实际上并不包含jrrp功能（但是插件名字好像改不了了）
+
+koishi-plugin-jrrp-pcl
+用于查询 PCL 启动器内的“今日人品”，个人自用，结果仅供参考。
+
+koishi-plugin-jrys
+A beautiful 'jrys' image koishi plugin
+
+koishi-plugin-jrys-fix-ranks
+[![npm](https://img.shields.io/npm/v/koishi-plugin-jrys-fix-ranks?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-jrys-fix-ranks)[![GitHub ](https://img.shields.io/github/stars/BYWled/jrys-fix-ranks?style=flat-square&logo=github)](https://
+
+koishi-plugin-jrys-wmc
+改自koishi-plugin-asaka-fortune，修了官机bug
+
+koishi-plugin-jryspro-fast
+
+
+koishi-plugin-jscn-aaaquery
+江苏有线无锡分公司宽带信息查询插件
+
+koishi-plugin-jscn-test
+江苏有线无锡分公司测试插件
+
+koishi-plugin-jx3emojiguess
+emoji猜剑三技能
+
+koishi-plugin-kaibao
+实现游戏王模拟开包功能
+
+koishi-plugin-keyword
+capture keyword and answer
+
+koishi-plugin-keyword-filtering
+[关键词触发]自用：当触发关键词时，会撤回该消息，并将关键字替换为图标（自己设置），并发送撤回的消息。ps:如果无法显示配置请删除本插件重新添加！
+
+koishi-plugin-keyword-gatekeeper
+关键词守门员，用于检测和处理群聊中的敏感关键词和非白名单URL
+
+koishi-plugin-keyword-recall
+关键词撤回
+
+koishi-plugin-keyword-reminder
+在群聊中检测到关键词就私聊提醒，可屏蔽指定用户
+
+koishi-plugin-keyword-tellme
+如果检测到对话中有包含的关键词，告诉我
+
+koishi-plugin-kfc-v50
+KFC疯狂星期四菜单推送
+
+koishi-plugin-kg-uuj
+自用
+
+koishi-plugin-kick-detection
+自用防踢
+
+koishi-plugin-kigurumi
+河妖工坊Kigurumi头壳进度查询
+
+koishi-plugin-kill-warning
+为什么要有警告和错误提示？
+
+koishi-plugin-king-game
+koishi上的国王游戏的插件
+
+koishi-plugin-kivobotpeek
+可以让群友视奸你的插件
+
+koishi-plugin-kknd
+允许群友视奸你的电脑屏幕，注意保护个人隐私哦
+
+koishi-plugin-kmyy
+kumingyuanyang
+
+koishi-plugin-koboshi-jmpdf
+koboshi-jmpdf
+
+koishi-plugin-koidice
+Dice! 的完整 Koishi 移植
+
+koishi-plugin-koishi-replykit
+自用
+
+koishi-plugin-koishiaimix
+基于AiHubMix API的AI对话和绘图插件，支持多种AI模型的聊天对话和图像生成功能，现已支持xAI Grok绘图
+
+koishi-plugin-konachan-custom
+Fork of koishi-plugin-booru-konachan with adaptive sampling, dedupe and verbose logging
+
+koishi-plugin-lambakma12
+[![npm](https://img.shields.io/npm/v/koishi-plugin-lambakma12?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-lambakma12)
+
+koishi-plugin-langbot-c-koishi
+[![npm](https://img.shields.io/npm/v/koishi-plugin-langbot-connect-koishi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-langbot-connect-koishi)
+
+koishi-plugin-langbot-c-koishi-beta
+[![npm](https://img.shields.io/npm/v/koishi-plugin-langbot-connect-koishi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-langbot-connect-koishi)
+
+koishi-plugin-langbot-connect-koishi
+[![npm](https://img.shields.io/npm/v/koishi-plugin-langbot-connect-koishi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-langbot-connect-koishi)
+
+koishi-plugin-langbot-connect-koishi-beta
+[![npm](https://img.shields.io/npm/v/koishi-plugin-langbot-connect-koishi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-langbot-connect-koishi)
+
+koishi-plugin-lark2qq
+test
+
+koishi-plugin-lcp-locker
+个人自用测试插件，点击头像查看本人所有插件
+
+koishi-plugin-lemonbot
+幽柠之域专用QQ机器人
+
+koishi-plugin-lex-ninjutsu
+Release Lex-Ninjutsu using Koishi bot.
+
+koishi-plugin-liang
+可以在qq群里@人和发图片的echo插件
+
+koishi-plugin-liar-tavern
+骗子酒馆游戏插件，一个类似Among Us的社交推理游戏，专为QQ官方机器人设计
+
+koishi-plugin-limit-rate
+限制指令和中间件的调用频率和每日调用次数
+
+koishi-plugin-link2card
+发送B站链接返回小程序卡片，参考了bilibili-videolink-analysis，只支持napcat
+新增发送网易云，qq音乐链接返回卡片
+
+koishi-plugin-linux-ssh
+Koishi插件，通过SSH连接Linux服务器并执行命令
+
+koishi-plugin-live-chat
+Koishi即时聊天插件，集成大模型角色扮演和文本转语音功能
+
+koishi-plugin-livelist
+查看mediaMTX直播列表
+
+koishi-plugin-lk-club-order-robot
+LK 俱乐部点单机器人插件，用于处理点单逻辑、交互流程
+
+koishi-plugin-llama-cpp
+Talk to local llama.cpp server via chat completion API (plain text, per-user memory).
+
+koishi-plugin-lmarena
+[<ruby>**使用 lmarena 绘画**<rp>（</rp><rt>点我查看效果预览图</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/openplatform/918ac2859b603fdeb74030a32c98cf4d2a19c8c8.png) 多功能 AI 图像处理插件，支持手办化、Coser化、Minecraft化等多种风格转换，并提供自定义提示词和多图融合功能
+
+koishi-plugin-lmarena-api
+lmarena-api。一个简单的手办化插件，修改自lmarena插件。通过配置 openai like 的 API 使用。设定参考自astrbot_plugin_shoubanhua。
+
+koishi-plugin-lmarena-gemini
+基于 lmarena 修改的 Gemini 专用版本。多功能 AI 图像处理插件，支持手办化、Coser化、Minecraft化等多种风格转换，并提供自定义提示词和多图融合功能
+
+koishi-plugin-lo-terr
+泰拉瑞亚主题答题插件，支持视频转GIF、网页渲染等多功能
+
+koishi-plugin-local-audio-sender
+/*指令触发语音*/支持本地音频、网络URL、文件夹音频搜索、txt网络URL列表...（有点像emojihub）。指令调用，可以很方便的触发语音哦。支持模糊匹配、递归搜索... 灵感来自[audio-sender](https://github.com/windbullet/koishi-plugin-audio-sender)
+
+koishi-plugin-locatts
+本地TTS插件
+
+koishi-plugin-logger-lark-webhook
+Send logs to lark webhook
+
+koishi-plugin-logger-logs
+Dump log files for Koishi
+
+koishi-plugin-loop-execute-cmd
+循环执行指令多次
+
+koishi-plugin-loss0ftime-chat
+自用,基于OpenAI API的智能聊天机器人插件，支持上下文记忆和群聊自动回复
+
+koishi-plugin-lottery-game
+完整的彩票系统，包括用户注册、权限管理、签到、答题、兑换码、商店购买和抽奖等功能
+
+koishi-plugin-lottery-lizard
+适配monetary的自定义积分彩票插件，有刮刮乐和大乐透
+
+koishi-plugin-love-festival
+A Qixi confession plugin for Koishi
+
+koishi-plugin-lovesick
+Koishi发病文学插件，可以生成包含指定昵称的发病文学
+
+koishi-plugin-lsh-bilibili-videolink-analysis
+琳瑟狐的视频解析插件，修改自bilibili-videolink-analysis
+
+koishi-plugin-lsh-ccb
+琳瑟狐的CCB插件
+
+koishi-plugin-lsh-coin-flip
+琳瑟狐猜硬币插件
+
+koishi-plugin-lsh-commands
+琳瑟狐群组用户控制插件
+
+koishi-plugin-lsh-core
+琳瑟狐核心插件
+
+koishi-plugin-lsh-economy-commands
+琳瑟狐货币系统转账插件
+
+koishi-plugin-lsh-message-counter
+琳瑟狐的message-counter
+
+koishi-plugin-lsh-music
+琳瑟狐点歌插件
+
+koishi-plugin-lsh-music-link
+琳瑟狐音乐下载插件
+
+koishi-plugin-lsh-pjsk-cover-guess
+琳瑟狐封面PJSK猜歌插件
+
+koishi-plugin-lsh-pjsk-guess
+琳瑟狐pjsk猜歌插件
+
+koishi-plugin-lsh-waifu
+琳瑟狐的waifu插件
+
+koishi-plugin-lsh-zaoan
+琳瑟狐早安晚安插件
+
+koishi-plugin-lsnet
+Koishi plugin that calls a local LSNet endpoint to infer artist names from images.
+
+koishi-plugin-ltqq
+QQ群消息转发插件
+
+koishi-plugin-luck-moon
+生成今日运势
+
+koishi-plugin-lucky-mute
+禁言幸运抽奖插件
+
+koishi-plugin-luckydraw
+A Koishi plugin for managing lucky draw and lottery activities with interactive creation and scheduled drawing.
+
+koishi-plugin-lunzheng-echounumber
+论证一个数字，生成的算式中只包含114514，好啊很好啊1.0.6版本,测试中，可能下载后无法使用，请等待更新
+
+koishi-plugin-luogu-saver-bot
+洛谷保存站机器人
+
+koishi-plugin-magnet-downloads
+下载磁链小工具
+
+koishi-plugin-magnet-get-lizard
+获取NSFW磁链资源，比我的另一个插件[javbus-lizard](https://github.com/lizard0126/javbus-lizard)收集的快。支持搜索国产
+
+koishi-plugin-magnet-whatslinkinfo
+一个基于 whatslink.info API 的 Koishi 插件，用于预览磁力链接信息和截图。
+
+koishi-plugin-mahoshojo-generator
+[<ruby>**魔女审判人设生成**<rp>（</rp><rt>点我查看效果预览图</rt><rp>）</rp></ruby>](https://i0.hdslb.com/bfs/openplatform/3dd9032fb12218083573ef7819156b10086293d1.png) 在魔女审判的世界观里，你将会是一个什么样的魔女...通过回答一系列问题，生成包含魔力构装、奇境规则的详细角色设定。
+
+koishi-plugin-maibisai
+自用插件
+
+koishi-plugin-maichuni-scorehelper
+【未完成】一些舞萌中二节奏功能
+
+koishi-plugin-mail-manager
+邮件监听与自动转发插件。支持多账号 IMAP 监听、规则匹配自动转发、WebUI 管理界面。
+
+koishi-plugin-maimai-status
+舞萌现在有网吗?
+
+koishi-plugin-make-a-choice
+Pick between multiple options after a wake word.
+
+koishi-plugin-manager-all
+一个功能完整的 Koishi 群管机器人插件，支持白名单管理、关键词过滤和消息监控
+
+koishi-plugin-manosaba-memes
+manosaba-memes
+
+koishi-plugin-manosaba-text-box
+一个自动化表情包生成工具，能够快速生成带有自定义文本的魔法少女的魔女裁判文本框图片
+
+koishi-plugin-maple-broadcast
+-
+
+koishi-plugin-maple-dice-v2
+-
+
+koishi-plugin-maple-drift-bottle
+-
+
+koishi-plugin-maple-frontline-zc
+-
+
+koishi-plugin-maple-house-search
+-
+
+koishi-plugin-maple-news
+-
+
+koishi-plugin-maple-schedule
+-
+
+koishi-plugin-maple-warriors
+-
+
+koishi-plugin-market-info-plus
+Koishi plugin market information
+
+koishi-plugin-mcdle
+Koishi 的 Minecraft 猜词游戏插件。根据 Minecraft 物品、生物和方块的属性特征，猜测正确的名称。
+
+koishi-plugin-mcp-server
+Convert koishi command to mcp tools
+
+koishi-plugin-media-luna
+ai media生成插件
+
+koishi-plugin-media-luna-modelscope
+Media Luna的ModelScope插件
+
+koishi-plugin-mediawiki-enhanced
+Enhanced MediaWiki plugin for Koishi with features inspired by akari-bot
+
+koishi-plugin-mediawiki-fix
+Koishi.js 的 MediaWiki 插件，将您的群聊与 wiki 站点紧密连接！(修复版)
+
+koishi-plugin-meihua
+随机数梅花易数算卦插件
+
+koishi-plugin-meinv
+随机发送小姐姐视频，命令：`meinv` 或 `/meinv`
+
+koishi-plugin-meme-generator
+meme generator
+
+koishi-plugin-meme-generator-rs-client
+meme-generator-rs support
+
+koishi-plugin-memeg
+meme
+
+koishi-plugin-memes
+MemeGenerator(RS)表情生成，全功能支持，可自由配置黑名单。
+
+koishi-plugin-memes-api-python
+表情包制作插件调用 API 版，改自 memes-api 1.0.2，修复了少量bug，增加了少量功能，新增了少量bug
+
+koishi-plugin-memes-poke
+戳一戳响应 memes-api，返回 meme 图
+
+koishi-plugin-memevv
+基于api调用vv表情包
+
+koishi-plugin-memorytable
+为其他bot插件提供记忆表格功能。也可独立运行一些指令，如群聊总结等。
+
+koishi-plugin-memos-connector
+连接并且操作memos服务器的数据
+
+koishi-plugin-menu
+可自定义的帮助菜单，提供美观的可视化命令帮助界面
+
+koishi-plugin-menu-plugin
+[![npm](https://img.shields.io/npm/v/koishi-plugin-menu-plugin?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-menu-plugin)
+
+koishi-plugin-merge-messages
+消息长度达到阈值时改为合并消息发送
+
+koishi-plugin-message-blocker
+可以设置违禁词、违禁图等，监听到后可选择撤回、禁言、警告等。违禁图的原理是感知哈希，支持相似度
+
+koishi-plugin-message-gateway
+一个收到特定消息向指定网址发送数据
+
+koishi-plugin-message-guard
+检测群友消息是否包含敏感词，如果有就撤回，避免炸群
+
+koishi-plugin-message-judge
+基于引用回复统计来对消息进行自动审判（禁言/撤回/设为精华）
+
+koishi-plugin-message-monitor
+监控并自动撤回指定用户发送的图片/视频/文件/可执行文件/合并转发/链接/关键词
+
+koishi-plugin-message-recall
+Reusable message recall helper for Koishi plugins
+
+koishi-plugin-message-recorder
+查看该群最近接收到的数条消息，已撤回的也可以看到
+
+koishi-plugin-message-relay
+一个在不同群组之间，监控并同步用户消息的 Koishi 插件。支持指令调用。
+
+koishi-plugin-message-topic
+
+
+koishi-plugin-message-topic-service
+
+
+koishi-plugin-met-music-link
+基于MET MUSIC API的点歌插件(自用，暂不开放后端)
+
+koishi-plugin-metar-search
+METAR查询
+
+koishi-plugin-metar-taf-parser
+航空气象报文解析（支持METAR,SPECI,TAF）
+
+koishi-plugin-metar-taf-reports
+通过机场代码（ICAO或IATA）获取METAR及TAF气象报文，数据来自AVWX REST
+
+koishi-plugin-meter-image
+METER查询
+
+koishi-plugin-mh-session-id-helper
+[![npm](https://img.shields.io/npm/v/koishi-plugin-mh-session-id-helper?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-mh-session-id-helper)
+
+koishi-plugin-miao-zhuanfa
+转发消息
+
+koishi-plugin-miaomiao-draw
+喵喵画图 - 基于梦羽API的图像生成插件
+
+koishi-plugin-microcommands
+Define Koishi commands using commands
+
+koishi-plugin-mila-robot
+妖狐自用,通过接口使用,QQ2207773011
+
+koishi-plugin-mila-robot1
+发送音频，使用妖狐语音合成API,比特率:40kbps（仅供学习交流使用）接口来源https://api.yaohuo.pro
+
+koishi-plugin-mili2
+321
+
+koishi-plugin-minecraft-adapter
+Minecraft adapter for Koishi
+
+koishi-plugin-minecraft-fishtime
+Minecraft 钓鱼模拟器
+
+koishi-plugin-minimax-vits
+自用，使用 minimax 国际版生成语音，不注册chatluna只截取chatluna输出LLM。
+
+koishi-plugin-miragetank-apy
+.
+
+koishi-plugin-mixlrmmbot
+aaa
+
+koishi-plugin-mjfh-respond
+MJFH内部招募记录以及查看全部招募
+
+koishi-plugin-mjx-game
+mjx's test
+
+koishi-plugin-mk-schedule
+(个人用，不建议使用)定时消息发送插件。
+
+koishi-plugin-mm-mj-d
+Koishi 的 Midjourney AI 绘图插件（钱多多 API）。
+
+koishi-plugin-moebot
+Koishi Plugin MoeBot
+
+koishi-plugin-monetary-admin
+Admin commands for Koishi monetary system
+
+koishi-plugin-monetary-bank
+[![npm](https://img.shields.io/npm/v/koishi-plugin-monetary-bank?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-monetary-bank) [![GitHub stars](https://img.shields.io/github/stars/BYWled/koishi-plugin-monetary-bank?style=flat-square&logo=
+
+koishi-plugin-monetary-bourse
+[![npm](https://img.shields.io/npm/v/koishi-plugin-monetary-bourse?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-monetary-bourse) [![GitHub stars](https://img.shields.io/github/stars/BYWled/koishi-plugin-monetary-bourse?style=flat-square
+
+koishi-plugin-monetary-mission
+为monetary提供用户任务功能 | Provide user task functionality for monetary
+
+koishi-plugin-monetary-plus
+给monetary增加货币排行榜和转账，自用
+
+koishi-plugin-monetary-roll
+a plugin for monetary to roll
+
+koishi-plugin-monetaryrank233
+经济排行
+
+koishi-plugin-more-dice
+a Koishi plugin providing more dice
+
+koishi-plugin-morewen-self
+个人测试用(不建议安装)
+
+koishi-plugin-moringserver
+早安，晚安回复系统
+
+koishi-plugin-mouthful
+一个嘴碎bot，通过上下文和人格设置，回应或者随机发言。
+
+koishi-plugin-msbao
+Pudding's plugin
+
+koishi-plugin-msbt
+A simple base16 encoder and decoder, inspired by https://msbt.seku.su/
+
+koishi-plugin-msg-photo
+给 Discord 的消息截图
+
+koishi-plugin-msg-pretty-log
+在 Koishi 中打印 QQ/OneBot 收发消息的清晰日志，支持文本、图片、表情等消息段。
+
+koishi-plugin-mstatus
+[![npm](https://img.shields.io/npm/v/koishi-plugin-mstatus?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-mstatus)
+
+koishi-plugin-multi-gal
+基于LLM的多人异步文字恋爱冒险插件
+
+koishi-plugin-multi-qa
+Koishi多问答插件 - 支持关键词/正则匹配，可回复文本、图片和文件，提供美观的配置界面
+
+koishi-plugin-multiplayer-gal
+基于LLM的多人异步文字恋爱冒险插件
+
+koishi-plugin-music-link-vincentzyu-fork
+/*音乐下载*/music-link的fork版本。🎵搜索音乐资源🤩提供QQ、网易云平台的音乐下载，付费的也可以欸？[点我查看使用方法](https://gitee.com/vincent-zyu/koishi-plugin-music-link-vincentzyu-fork)
+
+koishi-plugin-music-player-ncm
+网易云音乐播放器插件 - 支持搜索、下载和发送网易云音乐
+
+koishi-plugin-music-voice-xiaoxue
+fork from小学的网易云插件，但是加入了KOU KOU MUSIC和 Q / Q music(如侵权，请联系删除)
+
+koishi-plugin-my-menu
+功能强大的菜单管理插件，支持文本和图片菜单显示
+
+koishi-plugin-my-pig-group-friends
+[![npm](https://img.shields.io/npm/v/koishi-plugin-my-pig-group-friends?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-my-pig-group-friends)
+
+koishi-plugin-myjm-ljh
+这是调用python下载jm的插件
+
+koishi-plugin-myqb
+我的题库
+
+koishi-plugin-myryyds
+牧羊人，这是一款模拟养殖的娱乐聊天机器人，交流QQ群“71150117"。
+
+koishi-plugin-nailong
+识别奶龙的插件
+
+koishi-plugin-nailong-commands
+针对奶龙bot的定制commands插件 (基于 @koishijs/plugin-commands 二开)
+
+koishi-plugin-nailong-logger
+奶龙bot定制logger - 增强的日志管理插件
+
+koishi-plugin-nailong-monetary
+集成支付网页的货币插件
+
+koishi-plugin-nasa
+nasa每日一图
+
+koishi-plugin-native-tour
+原生之旅
+
+koishi-plugin-nbplugins
+Koishi 多功能插件集合（聊天AI、图片、服务器管理）
+
+koishi-plugin-netease-email-converter
+网易邮箱转换Cookie插件 for Koishi - 将网易邮箱转换为Cookie，支持跨群记录管理
+
+koishi-plugin-network-integral
+自用插件，可配置指令指向http接口,附带黑名单管理和违禁词检测功能
+
+koishi-plugin-newbee-image-gen
+ai image use cloudflare workers ai
+
+koishi-plugin-nfa-stock-monitor
+Koishi插件：NFA库存监控 - 支持自定义指令和多商品库存查询
+
+koishi-plugin-nhentai-downloader
+nhentai 漫画插件，提供搜索、下载、打包发送漫画作品的功能，支持 PDF/ZIP 加密
+
+koishi-plugin-niconico-analysis
+解析niconico视频链接/sm号
+
+koishi-plugin-nitter
+使用Rettiwt-API订阅推文，并使用nitter渲染
+
+koishi-plugin-niuke-data
+可获取牛客末场比赛的Rating变化，可列出即将进行的比赛，可在比赛开始前发推送消息，可以按要求查询排行榜
+
+koishi-plugin-njcard
+Koishi插件，提供单抽和十连抽卡功能
+
+koishi-plugin-nl-permission
+自用
+
+koishi-plugin-noah
+[![npm](https://img.shields.io/npm/v/koishi-plugin-noah?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-noah) [![downloads](https://img.shields.io/npm/dm/koishi-plugin-noah?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-no
+
+koishi-plugin-node-async-bot-all
+NodeAsync Bot插件（自用）
+
+koishi-plugin-nodeseek-rss
+NodeSeek RSS 订阅插件，支持按标签分类获取帖子和关键词推送
+
+koishi-plugin-not-command
+机器人被at时，如果消息不会被指令或中间件响应，反馈一条消息
+
+koishi-plugin-novel-bot
+下载番茄小说和老福特小说和音乐的一个插件，受到piwriy大佬机器人的启发做的，如果有问题请联系QQ3969910705
+
+koishi-plugin-novel-lizard
+网文搜索下载
+
+koishi-plugin-nrich
+nrich implementation in Koishi
+
+koishi-plugin-nvxingjiaoliu
+下江小春模拟器
+
+koishi-plugin-obastatus
+一个用于查询OpenBMCLAPI信息的插件
+
+koishi-plugin-ocr
+本地 OCR 服务，调用 PaddleOCR 或 RapidOCR 进行识别（开坑中，一堆bug，勿用）
+
+koishi-plugin-official-bot
+一个简陋的野生qqbot转发插件
+
+koishi-plugin-oi-contest-sniffer
+A Koishi plugin that can collect recent OI contests
+
+koishi-plugin-oi-match-query
+OI Match - Get information about coding competitions
+
+koishi-plugin-one-last-image
+One Last Image plugin for koishi
+
+koishi-plugin-onebot-button
+个人自用测试插件（真的个人自用吗？）
+
+koishi-plugin-onebot-group-manage
+主要针对多bot环境的群管插件，自动使用有权限的bot
+
+koishi-plugin-onebot-info-image
+用onebot api获取用户详细信息/群管理员列表信息，可以发纯文本/合并转发/渲染图片。 现在只做了lagrange和napcat的适配
+
+koishi-plugin-onebot-manager
+群管插件，功能梭哈，支持禁言/踢出等全部管理可用功能，另可自动审核好友/加群/邀请请求，还支持进退群等事件通知
+
+koishi-plugin-onebot-song-group-manager
+基于Onebot平台的QQ群聊命令监管，期望减少QQ群内管理员数量
+
+koishi-plugin-onebot-tool
+OneBot 工具集，带有点赞、打卡、拍一拍、表情回应和 AI 语音等功能，可独立开关和自由配置
+
+koishi-plugin-onenine-alchemy
+自用插件，炼金小游戏,开发中
+
+koishi-plugin-onenine-daily
+自用插件，提供一些日常功能
+
+koishi-plugin-oobabooga-testbot-dz
+大语言模型(本地/在线)聊天机器人。支持AI视觉伪多模态，AI工具调用，Emb长期记忆，vits语音回复，AI自动判断调用绘图，更多娱乐功能请看插件简介。
+
+koishi-plugin-open-llm-vtuber
+用于接入open-llm-vtuber的插件
+
+koishi-plugin-openai-compatible
+这是一个适用于Koishi的OpenAI兼容聊天插件，支持与所有兼容OpenAI API的大模型进行聊天交互。
+
+koishi-plugin-openfrp
+OpenFrp 映射管理 Koishi 插件
+
+koishi-plugin-ovofun
+ovofun插件
+
+koishi-plugin-ow-test
+测试ow开箱系统
+
+koishi-plugin-p-shop
+适用于 Satori 适配器的p点商店，satori-ai和p-qiandao的拓展功能
+
+koishi-plugin-pangu
+Paranoid text spacing
+
+koishi-plugin-parenthesis-balancer
+A plugin for Koishi to balance parentheses in messages
+
+koishi-plugin-pascal-magician-bot
+[![npm](https://img.shields.io/npm/v/koishi-plugin-pascal-magician-bot?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-pascal-magician-bot)
+
+koishi-plugin-paste-emoji
+通过回复消息贴表情
+
+koishi-plugin-pay-tool
+适用于Koishi框架的易支付工具插件，支持订单创建、查询、退款、分配等功能
+
+koishi-plugin-pc-control
+a simple plugin to control your pc
+
+koishi-plugin-peiyangmin
+培养皿小游戏，支持大数完整显示
+
+koishi-plugin-peiyangminplus
+进阶版培养皿插件
+
+koishi-plugin-pet-pet-gif
+Pet pet gif generation
+
+koishi-plugin-pet-raising
+宠物养成插件，用来应付QQ官方机器人过审
+
+koishi-plugin-peter
+n
+
+koishi-plugin-petpet-http-serve
+表情包生成器
+
+koishi-plugin-petpet-http-server
+表情包生成器的http本地服务版本,需安装java环境
+
+koishi-plugin-phimg
+该插件可以让机器人通过Philomena API在使用Philomena搭建的图站上使用标签（tags）搜图
+
+koishi-plugin-pica-comics
+一个用于搜索和下载 Pica 漫画的 Koishi 插件。
+
+koishi-plugin-picar
+A plugin to send random picture
+
+koishi-plugin-pictime
+保存某时间段某用户发送的所有图片
+
+koishi-plugin-picturesend
+一个发送琪露诺图片的插件
+
+koishi-plugin-pingpong
+很没用的插件，输入Ping输出Pong
+
+koishi-plugin-pingtool
+一个简简单单的ping工具
+
+koishi-plugin-pixel-art
+把图片转为像素风格
+
+koishi-plugin-pixelation
+基于星之阁API的像素化插件
+
+koishi-plugin-pixiv-parse
+提供 Pixiv 链接解析与更新订阅功能的 Koishi 插件
+
+koishi-plugin-pjsk-cover-guess
+Pjsk曲绘猜歌游戏
+
+koishi-plugin-playing-today
+因为星星有选择困难症，所以有了这个插件
+
+koishi-plugin-please-like-me
+赞我，一个QQ名片点赞插件，简单且更加强大，支持订阅点赞，对陌生人支持最多点赞50次。
+
+koishi-plugin-pm2
+PM2 process manager dashboard
+
+koishi-plugin-podris
+连接 Podris WebSocket 服务以获取地震速报等实时信息
+
+koishi-plugin-pointmint
+Points management system plugin
+
+koishi-plugin-pointmintmarket
+积分商城系统 - 为其他插件提供商品注册和购买功能
+
+koishi-plugin-pointmintmarket-ncm
+提供网易云音乐积分兑换服务
+
+koishi-plugin-pointmintmarket-pic
+使用积分兑换图片？用这个插件就对了。支持多个api接入，通过pointmarket实现积分兑换。
+
+koishi-plugin-pokemoji
+根据emoji猜宝可梦
+
+koishi-plugin-pokemole
+猜宝可梦的字谜游戏
+
+koishi-plugin-pokemon-g
+[<ruby>**在koishi上运行的宝可梦绿宝石的改版**<rp>（</rp><rt>点我查看食用教程</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-pokemon-g) 完整主线、20 多只神兽、400 多只精灵、MEGA进化，挑战八位道馆馆主，击退水舰队，解决丰缘危机，成为联盟冠军吧！
+
+koishi-plugin-pokemon-green
+宝可梦对战插件，遇到问题请加群786879731
+
+koishi-plugin-preview-help
+好像是一个图片菜单生成器？
+
+koishi-plugin-priv-broadcast
+发送全局或指定群聊的文本/图片/图文广播。[点我查看使用方法](https://github.com/DoomVoss/Koishi-Plugins-CBS/tree/main/plugins/priv-broadcast)
+
+koishi-plugin-privnode-support-v1
+Privnode v1
+
+koishi-plugin-proactive-chatluna
+A companion plugin for koishi-plugin-chatluna that enables proactive, persona-driven chats at random intervals.
+
+koishi-plugin-profile-card
+一个用于生成用户个人信息卡片的 Koishi 插件
+
+koishi-plugin-puppeteer-echarts
+使用pptr摁创建echarts(低性能警告)
+
+koishi-plugin-qbotrelations
+自定义和机器人的多种关系(娱乐向；测试中，自用）
+
+koishi-plugin-qcganp
+通过api获取频道新帖并转发至群聊
+
+koishi-plugin-qfwy-fudu
+模仿群友并随机复读
+
+koishi-plugin-qgroup-management
+更轻量的qq群聊管理
+
+koishi-plugin-qiandao
+签到，打开
+
+koishi-plugin-qimen-qqad
+qimenad for qq
+
+koishi-plugin-qlistcreate
+入群回答转发至群聊
+
+koishi-plugin-qq-avatar-images
+通过at或QQ号获取指定群友高清头像，抄的别人的，添加了一个获取群头像
+
+koishi-plugin-qq-group-mail-validator
+一个qq辅助审批入群插件，仅支持onebot适配器。可要求成员入群时进行邮箱验证(未做持久化)。
+
+koishi-plugin-qq-group-waifu
+[![npm](https://img.shields.io/npm/v/koishi-plugin-qq-group-waifu?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-qq-group-waifu)
+
+koishi-plugin-qq-http-relay
+实现 QQ 群消息与外部服务之间的双向通信。插件通过 HTTP 协议将 QQ 群消息转发至外部服务的 Webhook 端点，并接收外部 HTTP POST 请求发送的回复，发送到对应的 QQ 群。
+
+koishi-plugin-qq-information
+查询QQ用户信息的Koishi插件
+
+koishi-plugin-qq-lookup
+自用插件
+
+koishi-plugin-qq-message-deduplication
+QQ适配器消息去重
+
+koishi-plugin-qq-starve-expert
+使用硅基流动ai对接qq群，处理各种问题，默认饥荒消息的机器人，加入群 955025152 获取更多帮助
+
+koishi-plugin-qq-utils
+
+
+koishi-plugin-qqapk-renamer
+Koishi插件。QQ apk.1 文件重命名，自动处理 .apk.1 文件重命名为 .apk 并封装为 ZIP 压缩包，绕过 QQ 限制
+
+koishi-plugin-qqboardcast
+群发消息，支持@全体成员
+
+koishi-plugin-qqgal
+通过在线api让群友变成可攻略GalGame角色,自用测试
+
+koishi-plugin-qqinlist
+牢左专用QQ群进群验证密码系统，支持生成一次性密码、自动审核入群请求
+
+koishi-plugin-qqlangrensha
+qq官方bot狼人杀游戏插件
+
+koishi-plugin-qqmanager
+manage group
+
+koishi-plugin-qqq-bot-manager
+/*管理你的QQbot数据！*/使用链接登录、查看你的QQ官方机器人数据。➢ [点我预览效果图](https://i0.hdslb.com/bfs/article/09335995da748f5c6a96b4bc1f13e78c312276085.png)
+
+koishi-plugin-qqsheet-checker
+通过比对收集表头像与QQ群内头像，识别是否为群成员并返回QQ号
+
+koishi-plugin-qqwebapi
+为QQ平台开发者增加一些好用的webapi，包括个人、群头像、个人等级等api
+
+koishi-plugin-question-answer
+Q&A System
+
+koishi-plugin-qun-prank
+A recreation of the qun-fuck plugin for Koishi with enhanced features from ccb-plus.
+
+koishi-plugin-quote-book
+这是一个支持笔名系统的摘抄本插件，用户可以创建笔名后记录好词好句，并通过漂流瓶方式随机获取他人摘抄，所有数据都会持久化保存。
+
+koishi-plugin-quote-bubble
+收集和展示群友的精彩言论，并渲染成聊天气泡图片
+
+koishi-plugin-qwen
+qwen
+
+koishi-plugin-qwen-ai-chat
+Qwen AI Chat Plugin - 阿里云千问大模型对话插件，支持人设系统、对话上下文管理、用户记忆系统、人设适配器和多种AI功能
+
+koishi-plugin-qwen-yexingzhi
+阿里云千问大模型适配
+
+koishi-plugin-qxchx
+,,,
+
+koishi-plugin-qxlt
+[![npm](https://img.shields.io/npm/v/koishi-plugin-qxlt?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-qxlt)
+
+koishi-plugin-qxshqchj
+（自用）不要下载，自已用的，改的别人的插件，有bug没修好，先这样了。
+
+koishi-plugin-random-airports-takeoff
+[![npm](https://img.shields.io/npm/v/koishi-plugin-random-airports-takeoff?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-random-airports-takeoff)
+
+koishi-plugin-random-azurlane-picture
+随机碧蓝航线图片
+
+koishi-plugin-random-ba-manga
+在ba官网随机一张ba漫画发出
+
+koishi-plugin-random-bangdream-manga
+随机邦多利漫画
+
+koishi-plugin-random-demonr
+生成随机数-学习版
+
+koishi-plugin-random-doro
+基于Doro表情包收集站api的随机doro表情包查询功能
+
+koishi-plugin-random-javbus
+javbus随机一部
+
+koishi-plugin-random-memeking
+随机获取表情包之王柴郡或doro的表情包（或者猪猪？）
+
+koishi-plugin-random-num-skuy
+A Koishi plugin that provides daily fortune with ratings and advice.
+
+koishi-plugin-random-picker
+根据发送特定消息，随机选择回复
+
+koishi-plugin-random-sister
+随机小姐姐插件
+
+koishi-plugin-random-v
+[![npm](https://img.shields.io/npm/v/koishi-plugin-random-v?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-random-v)
+
+koishi-plugin-random-yuzusoft-linestamp
+随机柚子社LINE表情
+
+koishi-plugin-random123
+生成随机数
+
+koishi-plugin-randomnum514
+随机514
+
+koishi-plugin-randompic
+随机获取图片
+
+koishi-plugin-randomthm
+随机东方曲
+
+koishi-plugin-rce
+remote code execution
+
+koishi-plugin-rce2
+远程代码执行
+
+koishi-plugin-rdpoem
+random poem
+
+koishi-plugin-rec-tag
+改waifu-diffusion-tagger,功能一样
+
+koishi-plugin-regex-response
+Match RegEx and response specific text
+
+koishi-plugin-register-2333pro
+可以允许用户在2333pro系列插件内给自己定义一个名字
+
+koishi-plugin-removebg-pro
+一个基于 remove.bg API 的 Koishi 插件，用于移除图片背景。
+
+koishi-plugin-repeat-bot
+repeat what we said
+
+koishi-plugin-repeat-machine
+repeat machine
+
+koishi-plugin-reply-voice
+sand
+
+koishi-plugin-repostkick
+[![npm](https://img.shields.io/npm/v/koishi-plugin-repostkick?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-repostkick)
+
+koishi-plugin-restaurant
+一个功能完整的餐厅经营插件，支持食材管理、菜谱制作、员工招聘等功能
+
+koishi-plugin-revoke-image
+通过图片对比撤回某些图片消息
+
+koishi-plugin-roblox-bot
+插件
+
+koishi-plugin-roblox-bot1
+演示插件
+
+koishi-plugin-roblox-bot2
+演示插件
+
+koishi-plugin-roblox-bot3
+演示插件最新版
+
+koishi-plugin-roblox-bot4
+终极插件
+
+koishi-plugin-robot
+a plugin for me to deliver qingyunke
+
+koishi-plugin-ronbot
+ronpad qqbot
+
+koishi-plugin-roulette2
+用于qq群的俄罗斯轮盘禁言（返璞归真，不添加任何花里胡哨的东西）
+
+koishi-plugin-route-search
+航路查询
+
+koishi-plugin-rpgrole
+基于群聊环境的角色扮演（RPG）游戏系统，核心在于记录和管理每位玩家的属性，并通过一系列互动指令驱动游戏进程
+
+koishi-plugin-rr3
+rr2复活版，仍然免费
+
+koishi-plugin-rss-sc-personal-use
+自用
+
+koishi-plugin-rtm
+随机东方曲
+
+koishi-plugin-rustbrick
+参考brick插件，拍中禁人，未中禁己，加入更加丰富的玩法
+
+koishi-plugin-rusty-lake-lizard
+交互式解谜游戏，来玩玩吧~
+
+koishi-plugin-rwkkn
+rwkk! 
+
+koishi-plugin-sakana-widget
+石蒜模拟器网页小组件。➢ [点我预览效果图](https://i0.hdslb.com/bfs/openplatform/a1d1b87d7d90c9a76dc50633c3c81d7f70a64136.png)。灵感来自 [live2d插件](https://github.com/koishijs/koishi-plugin-live2d)
+
+koishi-plugin-sanjie
+三界·极简版 - 梦幻西游题材QQ机器人游戏
+
+koishi-plugin-sauce-aggregator
+聚合以图搜图与图源链接解析，快速查找图片出处并获取原图及来源，支持6个搜图引擎，5个图源网站。
+
+koishi-plugin-save-audio
+保存语音到本地
+发送本地的语音
+
+koishi-plugin-sb-board
+自用插件...
+
+koishi-plugin-sc-aliyun-censor
+A aliyun censor provider for Koishi
+
+koishi-plugin-sc-chat-summary
+This is a plugin for summarizing your chat.
+
+koishi-plugin-sc-homura
+仿真度高可以发表情的ai群友，甚至可以私聊当女友(划掉
+
+koishi-plugin-sc-sending
+[![npm](https://img.shields.io/npm/v/koishi-plugin-sc-sending?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-sc-sending)
+
+koishi-plugin-sc-ws
+一个用于通信koishi和sc-ws的插件
+
+koishi-plugin-scheduled-broadcast
+定时广播插件
+
+koishi-plugin-scold
+扣字骂鲨臂
+
+koishi-plugin-scp-koi
+特殊收容措施：SCP-koi被收容在互联网某处的js仓库中。
+
+koishi-plugin-scp-sl-xiaoyu
+Koishi插件：SCPSL多服务器在线人数查询（非官方自用的）
+
+koishi-plugin-screenshot-links
+链接预览！可以实现 [指令解析](https://i0.hdslb.com/bfs/openplatform/d662bef1d4410f527e3834ac8dfd34266e45e5cf.png)、[中间件解析](https://i0.hdslb.com/bfs/openplatform/efa99d00af6fdd73b26b0768730a72d873a85144.png)、[自定义黑名单](https://i0.hdslb.com/bfs/openplatform/343f01d0fdbbca0
+
+koishi-plugin-sd-inspector
+从 Stable Diffusion 生成的图片中读取 pnginfo 来获取生成的参数 / Stable Diffusion 模型类别解析
+
+koishi-plugin-sdexif
+Read EXIF and prompt information from Stable Diffusion generated images
+
+koishi-plugin-sdkkt
+Read EXIF and prompt information from Stable Diffusion generated images | 从sd生成的图像中读取metadata 来 kkt
+
+koishi-plugin-secure-test
+test koishi secure tag
+
+koishi-plugin-sehu-auto-agree-guild-request
+自动通过加群申请插件，自用
+
+koishi-plugin-sehu-broadcast
+瑟狐的广播插件，自用
+
+koishi-plugin-sehu-core
+琳瑟狐核心服务组件，自用请不要安装
+
+koishi-plugin-sehu-life-factor
+瑟狐插件，随机抽取群友注入生命因子并记录
+
+koishi-plugin-sehu-navidrome
+基于Navidrome API的音乐插件
+
+koishi-plugin-sehu-pjsk-guess
+瑟狐的pjsk猜歌插件，自用
+
+koishi-plugin-sehu-qq-profile-like
+一个支持多机器人实例的 QQ 名片赞插件
+
+koishi-plugin-sehu-rss
+rss订阅插件
+
+koishi-plugin-sehu-train-schedule
+瑟狐的火车时刻表及票价查询插件，自用
+
+koishi-plugin-sehu-zaoan
+瑟狐的早安晚安插件，自用
+
+koishi-plugin-self-host-api
+[![npm](https://img.shields.io/npm/v/koishi-plugin-self-host-api?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-self-host-api)
+
+koishi-plugin-send-url
+自定义指令发送指定url
+
+koishi-plugin-sendimg
+user input keywords then bot send image from data.json
+
+koishi-plugin-sensoji-anime
+一个二次元风格的求签插件，支持通过图片api生成精美的求签图片。
+
+koishi-plugin-server-monitor
+服务器监控插件，支持文本和可视化图片两种展示模式
+
+koishi-plugin-server-onebot
+OneBot v11 服务器
+
+koishi-plugin-server-status
+查询服务器状态信息，包括CPU使用率、内存使用率、网络带宽、运行时间等，支持自定义背景图
+
+koishi-plugin-set-essence-message
+让一般路过普通群员也能设置精华消息，机器人需要有管理员权限
+
+koishi-plugin-setname
+测试用插件，设置昵称
+
+koishi-plugin-settings-service-manager
+在 Koishi 控制台中管理群聊配置
+
+koishi-plugin-sgs-review
+今天心情好,给三国杀打个差评。
+
+koishi-plugin-share-links-analysis
+自用插件
+
+koishi-plugin-sharedetection
+Check if the QQ message is a special share-type card
+
+koishi-plugin-shell-pro
+通过指令在服务器执行终端命令的插件。
+
+koishi-plugin-shentun-ai
+神吞酱 - 拥有独立个性的AI助手，支持图片识别和记忆系统，会主动跳出来聊天
+
+koishi-plugin-shikoi
+[![npm](https://img.shields.io/npm/v/koishi-plugin-shikoi?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-shikoi)
+
+koishi-plugin-shui
+自用
+
+koishi-plugin-shulikou
+开箱即用的术力口周报插件
+
+koishi-plugin-shulikou-zhoubang
+术力口的周榜插件，开箱即用
+
+koishi-plugin-signupuuu
+注册平台账户
+
+koishi-plugin-simple-echo
+检测到对应消息后给出简单回复,parameters数组中存储需要检测的消息，template数组中存储对应的回复
+
+koishi-plugin-simple-farm
+一个功能丰富的农场经营游戏插件
+
+koishi-plugin-simple-ssh
+use ssh to run simple command on linux
+
+koishi-plugin-simple-talk
+简单的对话实现
+
+koishi-plugin-single-boy-helper
+单身狗帮助插件
+
+koishi-plugin-situation-puzzle
+没错！基于AI的海龟汤插件！
+
+koishi-plugin-skill-query
+技能查询插件，支持腾讯文档截图和 AI 辅助排版
+
+koishi-plugin-slave-market
+大奴隶时代
+
+koishi-plugin-slave-market-enhanced
+奴隶市场插件
+
+koishi-plugin-sleep
+提供精致睡眠功能，可在指定时间段内自我禁言，适合睡觉打卡。
+
+koishi-plugin-sleep-shiyi
+Koishi睡眠记录插件，用于记录用户的睡眠情况并提供统计分析
+
+koishi-plugin-sleepsign-in
+Sleep check-in plugin
+
+koishi-plugin-smmcat-cdk
+兑换码获取通用货币系统
+
+koishi-plugin-smmcat-createlocalimg
+通过网络图片生成本地图片路径
+
+koishi-plugin-smmcat-daxue
+大学查询
+
+koishi-plugin-smmcat-driftbottle
+漂流瓶
+
+koishi-plugin-smmcat-economy
+通用道具交易市场
+
+koishi-plugin-smmcat-economydemo
+提供通用交易市场的演示demo
+
+koishi-plugin-smmcat-faqornot
+上还是不上和谐版本，来源 f**kornot.on.websim.com
+
+koishi-plugin-smmcat-gensokyo
+名为《幻想乡》的文字冒险游戏
+
+koishi-plugin-smmcat-hummingidentify
+哼唱识别
+
+koishi-plugin-smmcat-oldmaid
+在群里与蔚蓝档案学生抽鬼牌！
+
+koishi-plugin-smmcat-permission
+为bot实现授权使用、黑名单效果(理论)
+
+koishi-plugin-smmcat-picguesscartoon
+截图猜动画[数据来源:lab.magiconch.com]
+
+koishi-plugin-smmcat-picthesaurus
+快速通过文件夹名构建词库触发词，通过文件夹内的图片构建随机回复
+
+koishi-plugin-smmcat-qqbadnesscheck
+QQ违章等通用功能（自用）
+
+koishi-plugin-smmcat-sendstemp
+为QQbot存储缓存session以便发送消息
+
+koishi-plugin-smmcat-simpletransfer
+qqbot 支持的简单转账功能
+
+koishi-plugin-smmcat-timingpush
+简单的群内定时推送
+
+koishi-plugin-smmcat-translate
+开箱即用的：自由翻译、语音翻译
+
+koishi-plugin-smmcat-warmgroup
+冷群了？把群热一下
+
+koishi-plugin-sora-demo
+sora视频生成插件，支持流式进度显示、AI 提示词优化、任务管理和收藏功能
+
+koishi-plugin-spark-lite
+用于讯飞星火大Lite模型的对接,理论上适配讯飞其他大模型
+
+koishi-plugin-spawn-modified
+Run shell commands with Koishi
+
+koishi-plugin-speak
+把网络用语的缩写翻译成完整的句子
+
+koishi-plugin-speechless-mind
+/*梗图生成*/ 生成梗图「无语，和你说不下去，典型的_____思维」的meme图哦！[点我查看](https://i0.hdslb.com/bfs/article/00bf52c9f36bf40e63fd28334338a71d312276085.png) [插件预览效果图](https://i0.hdslb.com/bfs/article/5d9001575731061e467cc1c3d77f6a54312276085.png) 好像很好玩的样子（（（嘻嘻
+
+koishi-plugin-spell-wrong
+[<ruby>你拼错了指令<rp>（</rp><rt>点我查看README</rt><rp>）</rp></ruby>](https://www.npmjs.com/package/koishi-plugin-spell-wrong)。支持在用户输入没有被处理的情况下，进行提示返回处理。 [点我预览效果图](https://i0.hdslb.com/bfs/openplatform/efff3a76e737a7c986f670b4c64ad878ec527927.png) 
+
+koishi-plugin-spleeter
+一个将音频的人声与伴奏分离的插件，后端依赖spleeter Web
+
+koishi-plugin-star-kicker
+给臭星星写的踢人
+
+koishi-plugin-star-qg
+星星要的 头衔发放和禁言
+
+koishi-plugin-starfx-bot
+StarFreedomX机器人的小功能，自用
+
+koishi-plugin-stargame
+抽卡游戏插件
+
+koishi-plugin-statistical-ranking
+统计命令使用和成员发言记录，支持分命令/群组/用户统计，支持统计发言排行，支持输出图片
+
+koishi-plugin-statistics
+自用
+
+koishi-plugin-sticker-convert
+QQ表情包转换插件，支持将QQ表情转换为图片或文件格式，并提供相册管理功能
+
+koishi-plugin-stock-manager
+机厅水和饮料库存统计机器人
+
+koishi-plugin-strict-auth
+严格鉴权插件，仅允许群主/管理员与 authority>=3 的用户执行列入名单的敏感命令。[点我查看使用方法](https://github.com/DoomVoss/Koishi-Plugins-CBS/tree/main/plugins/strict-auth)
+
+koishi-plugin-student-query
+学生信息查询插件 - 支持多数据库、学号/姓名查询、模糊搜索、分页显示、自动通过好友请求、加群验证审核
+
+koishi-plugin-student-union-notifier
+自用
+
+koishi-plugin-study-group-manager
+一个功能完整的 Koishi 插件，用于帮助用户创建、加入和管理学习小组，促进协作学习。
+
+koishi-plugin-study-manager
+一个功能完整的 Koishi 插件，用于帮助用户记录和管理学习进度，设置学习目标，并生成学习报告。
+
+koishi-plugin-subscription
+给多个应用提供订阅群组管理
+
+koishi-plugin-suixieinfo
+Return System info
+
+koishi-plugin-suno
+基于Suno AI的音乐生成插件，支持生成歌曲和下载音频/视频
+
+koishi-plugin-sunsetbot
+火烧云预报，数据来源Sunsetbot.top
+
+koishi-plugin-supermarket
+测试,请不要安装
+
+koishi-plugin-surprise-box
+一个充满惊喜的Koishi娱乐插件，包含四个创意十足的指令
+
+koishi-plugin-susu
+自用.插件
+
+koishi-plugin-swing-bottle
+一起来玩漂流瓶吧~
+
+koishi-plugin-sy-bot
+考研群答疑Bot，接入Gemini。
+
+koishi-plugin-tabledrop-dice
+酒桌骰子游戏，真心话大冒险？
+
+koishi-plugin-tangxi-bot
+敲可爱的小糖曦来啦~
+
+koishi-plugin-tarkov-game
+一个受到 Escape from Tarkov 启发的 Koishi 游戏插件。在游戏中，玩家可以探索不同的地点，搜索物资，收集物品，并在市场中进行交易。
+
+koishi-plugin-taylor
+stable diffusion绘图插件
+
+koishi-plugin-team-quest
+Koishi游戏任务组队插件
+
+koishi-plugin-teamspeak-multiple
+teamspeak传达室老大爷，帮你盯着谁进来了
+
+koishi-plugin-teleguild
+群友可以向指定群发起群消息互通（消息互相转发），任何群友都可以挂断（通话中也随时可以），可以自动获取或手动添加群通讯录供查询
+
+koishi-plugin-test
+test
+
+koishi-plugin-test-modules
+[![npm](https://img.shields.io/npm/v/koishi-plugin-test-modules?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-test-modules)
+
+koishi-plugin-test-plugin
+just a test
+
+koishi-plugin-test-sm-nextmap
+[![npm](https://img.shields.io/npm/v/@tyhh10/koishi-plugin-test-sm-nextmap?style=flat-square)](https://www.npmjs.com/package/@tyhh10/koishi-plugin-test-sm-nextmap)
+
+koishi-plugin-test-test
+tst
+
+koishi-plugin-test1-c
+测试1
+
+koishi-plugin-texas-rebuild
+自用插件，改自texas插件，增加了与通用货币的联动
+代码原作者@link_age
+
+koishi-plugin-text-to-image
+text to image
+
+koishi-plugin-theme-catppuccin
+Soothing pastel colored theme from Catppuccin for Koishi Console
+
+koishi-plugin-three-kingdoms-business
+三国经商游戏插件 - 在三国世界中经营商队，买卖商品，赚取财富
+
+koishi-plugin-thumb-up
+高阶QQ名片赞！赞你赞我赞大家！
+
+koishi-plugin-tic-tac-toe
+井字棋游戏(同学说想玩就顺手做了^^ )
+
+koishi-plugin-tieba-parse
+一个用于解析百度贴吧链接，并生成帖子截图、提取内容的 Koishi 插件。
+
+koishi-plugin-timedmessage
+定时发送消息插件
+
+koishi-plugin-tldr2
+太长不看-AI总结群聊消息的功能
+
+koishi-plugin-tldr3
+让AI总结两条消息之间的所有消息
+
+koishi-plugin-today-yunshi
+今日运势插件
+
+koishi-plugin-todaybattle
+[![npm](https://img.shields.io/npm/v/koishi-plugin-todaybattle?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-todaybattle)
+
+koishi-plugin-toubi
+自用
+
+koishi-plugin-triangle-agency
+三角机构跑团掷骰助手
+
+koishi-plugin-ts3manager
+监听ts文字信息，查看谁在ts频道
+
+koishi-plugin-ttlock-solips
+通通锁koishi适配插件
+
+koishi-plugin-tts-base
+tts 服务基础插件
+
+koishi-plugin-turnbase-fishing-game
+一款为Koishi打造的深度回合制钓鱼RPG插件。拥有超过600种可收集生物、动态世界事件、完整的技能树与等级系统、波动的市场经济以及策略性的装备管理。这不仅是钓鱼，更是一场冒险。(ai爆改自fishing-game)
+
+koishi-plugin-tvbakama123
+wangpanziyuan
+
+koishi-plugin-tvbakama123noturl
+减少直接发url，减少风控
+
+koishi-plugin-twitter-fetcher
+一个推特/Twitter/X内容获取与订阅插件，支持链接实时解析和用户后台订阅推送。
+
+koishi-plugin-twitter-link
+自动解析聊天中的 Twitter/X 链接，并发送推文的文字、图片和视频。
+
+koishi-plugin-two-to-true
+一个用于合成伪装图片的插件
+
+koishi-plugin-typbot-render
+A plugin for rendering Typst markup, script and math formulas using local Typst CLI.
+
+koishi-plugin-typst-to-image-service
+convert typst to image using a non-puppeteer solution.
+
+koishi-plugin-uid-query
+Query your platform and internal UID in Koishi
+
+koishi-plugin-umami-statistics-service
+Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+
+koishi-plugin-universal-tts
+通用 Koishi 文字转语音插件，支持 OneBot/QQ官方。
+
+koishi-plugin-url-analyser
+读取特定格式的URL并格式化内容发送
+
+koishi-plugin-user-blacklist
+一个用于管理QQ机器人黑名单的Koishi插件
+
+koishi-plugin-user-presence
+为koishi提供封装后的跨平台函数
+
+koishi-plugin-user-settings
+提供一个可供其他插件使用的、层级化的用户个性化配置服务
+
+koishi-plugin-vatsim-search
+查询VATSIM机组s信息（通过VATSIM-RADAR）
+
+koishi-plugin-verifier-code
+群验证插件，支持自动入群审批和入群验证码
+
+koishi-plugin-video-pkg
+视频合集
+
+koishi-plugin-video-to-gif
+将视频转换为GIF动图的Koishi插件
+
+koishi-plugin-video1251
+25565
+
+koishi-plugin-virtual-pet
+虚拟宠物插件，具有记忆功能，可以监听群聊并智能回复
+
+koishi-plugin-vits-edge-tts
+基于 Microsoft Edge TTS 的 Koishi VITS 语音合成服务
+
+koishi-plugin-voice-pkg
+语音包合集
+
+koishi-plugin-volanta-search-flight
+[![npm](https://img.shields.io/npm/v/koishi-plugin-volanta-search-flight?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-volanta-search-flight)
+
+koishi-plugin-vote-to-mute
+投票禁言/解禁某个用户，满足一定票数后禁言
+
+koishi-plugin-vpn-control-chan
+VPN 控制酱♡ - 一款支持控制多种VPN的插件，例如 Tailscale
+
+koishi-plugin-vv
+输出VV梗图
+
+koishi-plugin-vv-bot
+基于 https://github.com/Cicada000/VV 的VV表情包机器人
+
+koishi-plugin-vvm-monitor
+A Koishi plugin to query data from a VOCALOID-Video-Monitor instance.
+
+koishi-plugin-vvquest
+A vv meme search plugin via zvv.quest
+
+koishi-plugin-vvsays
+发送张维为表情包
+
+koishi-plugin-w-discourse
+WillBot: Discourse webhook broadcaster
+
+koishi-plugin-w-elo
+WillBot: ELO function
+
+koishi-plugin-w-flarum
+WillBot: Flarum functions
+
+koishi-plugin-w-shanwei-canteen
+Canteen services for Shandong University (Weihai)
+
+koishi-plugin-w-time
+WillBot: Time function
+
+koishi-plugin-w-time-travel
+WillBot: Time travel function
+
+koishi-plugin-w-tldr
+WillBot: guild message TLDR function
+
+koishi-plugin-w-vpet
+基于w-messagedb的电子宠物插件
+
+koishi-plugin-w-wakatime
+WillBot: wakatime function
+
+koishi-plugin-w-wordcloud
+WillBot: wordcloud service
+
+koishi-plugin-waifu-bangdream
+Marry with your groupmate, with BanG Dream Border!
+
+koishi-plugin-waifu-ccd2s
+Marry with your groupmate
+
+koishi-plugin-waifu-diffusion-tagger-fork
+开箱即用的，图片反推AI生成标签，nsfw程度评分及角色识别
+
+koishi-plugin-wakaview
+通过命令获取指定用户的wakatime信息
+
+koishi-plugin-wallpaper-api
+为 sunpanel 提供壁纸每日库 + HTTP API（支持标签轮询、Pixiv 推荐流兜底、横屏比例筛选、收藏与本地缓存等）。新增：Konachan图源、标签权重系统、喜欢图库、公平随机算法
+
+koishi-plugin-webdav-stickers
+一个使用 WebDAV 保存表情包的 Koishi 插件
+
+koishi-plugin-webhook-message
+监听指定 Webhook 地址并从接收的JSON数据中动态获取目标ID进行消息转发
+
+koishi-plugin-webhook-pusher
+基于webhook的消息推送插件
+
+koishi-plugin-webhook-recoder
+监听指定 Webhook 地址并格式化消息发送，支持保存最新消息并通过自定义指令获取
+
+koishi-plugin-webhook-sender
+根据指令发送 Webhook 请求，支持自定义指令和接口地址，支持 {QQ} 参数替换
+
+koishi-plugin-webhook-trigger
+强大的Webhook处理插件，支持Handlebars模板和富文本消息（图片、AT、文本转图片）
+
+koishi-plugin-webhook-trigger-message
+监听指定 Webhook 地址并格式化消息发送，支持动态会话ID获取
+
+koishi-plugin-webmaster-tools
+站长工具（功能逐步更新中）
+
+koishi-plugin-welfare-ji-ai
+调用福利姬AI来评价图片能不能搞
+
+koishi-plugin-whatlang
+WhatLang Koishi runtime
+
+koishi-plugin-wifegacha
+抽老婆，详情请查看[readme.md](https://github.com/Bear-biscuit/koishi-plugin-wifegacha/blob/main/README.md)
+
+koishi-plugin-wifegacha-enhanced
+增强版抽老婆插件，新增消息撤回开关、图鉴智能生成等功能。
+
+koishi-plugin-winp
+我们遥遥领先！（带图版）
+
+koishi-plugin-wjq-6657-meme
+访问 s6657 抽象语录
+
+koishi-plugin-wol
+[![npm](https://img.shields.io/npm/v/koishi-plugin-wol?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-wol)
+
+koishi-plugin-word-core-chatai
+词库引擎，AI回复扩展
+
+koishi-plugin-word-image
+文案系统 - 生成各种类型的文案图片
+
+koishi-plugin-wordpress-notifier
+WordPress 文章自动推送到 QQ
+
+koishi-plugin-x-video
+A Koishi plugin for parsing videos from multiple platforms using RapidAPI.
+
+koishi-plugin-x-vita
+Digital Life Core for Koishi
+
+koishi-plugin-xgxt
+xgxt
+
+koishi-plugin-xhs-analyse
+小红书解析自用版本
+
+koishi-plugin-xiaohongshu-parser-node
+自用，小红书分享链接解析
+
+koishi-plugin-xiaohua-monetary
+Monetary System for xiaohua bot
+
+koishi-plugin-xin-caidan
+[![npm](https://img.shields.io/npm/v/koishi-plugin-xin-caidan?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-xin-caidan)
+
+koishi-plugin-xiouxian
+模拟签到系统
+
+koishi-plugin-xiuxian-legend
+全能修仙系统 V4.0
+
+koishi-plugin-xubin-store
+徐斌的小店koishi适配器
+
+koishi-plugin-xxapi
+get xxapi info
+
+koishi-plugin-xycshout
+这是一个可以让向有成Pro大叫的插件
+
+koishi-plugin-yaohud-robot1
+妖狐自用脚本
+
+koishi-plugin-yesimbot-extension-daily-planner
+YesImBot 日程规划器
+
+koishi-plugin-yesimbot-extension-favor
+move to @yesimbot/koishi-plugin-favor
+
+koishi-plugin-yesimbot-extension-mcp
+move to @yesimbot/koishi-plugin-mcp
+
+koishi-plugin-yesimbot-extension-online-prompt
+YesImBot 在线提示词加载扩展，由AI完成编写，不保证可靠性，可能出现奇怪问题
+
+koishi-plugin-yesimbot-extension-sticker-manager
+YesImBot 表情包管理扩展
+
+koishi-plugin-yesimbot-training-toolkit
+使用 yesimbot 格式从聊群收集聊天记录并生成模型微调数据集。
+
+koishi-plugin-yinglishluna
+Yinglish translator powered by the large language model in chatluna
+
+koishi-plugin-yolov8
+
+
+koishi-plugin-ysyunhei
+通过OneBot实现对特定云端黑名单系统添加和查询人员的机器人插件。
+
+koishi-plugin-yuc-market
+[![npm](https://img.shields.io/npm/v/koishi-plugin-yuc-market?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-yuc-market)
+
+koishi-plugin-yumo-delayedreply
+过一段时间发一个消息
+
+koishi-plugin-yumu-dice
+A Koishi plugin for dice rolling and advanced text interaction, ported from DiceService.kt. Features intelligent Chinese language processing for natural conversation and decision making.
+
+koishi-plugin-yunhei-query
+一个用于 qimeng 的 yunhei-api 调用插件，支持查询云黑信息，未来可能会扩展其他功能
+
+koishi-plugin-yutang-aisay
+ai语言合成
+
+koishi-plugin-yutang-astrbot-apis
+astrbot API 功能合集插件,共30+个API，包含文本（一言）、图片、音频、视频众多功能，注意：非大陆ip部分功能不可用
+
+koishi-plugin-yutang-bili
+最全面的biliili热榜，包含全部榜单
+
+koishi-plugin-yutang-card
+个人信息小卡片
+
+koishi-plugin-yutang-cunyu-ill
+存雨api图库
+
+koishi-plugin-yutang-doubao-illus
+豆包绘图
+
+koishi-plugin-yutang-dpai
+ai对话 自用
+
+koishi-plugin-yutang-goodnight
+好用的早晚安插件！
+
+koishi-plugin-yutang-history
+历史今日
+
+koishi-plugin-yutang-illus
+发送超高质量的二次元图片
+
+koishi-plugin-yutang-illus-xingzhige
+星之阁的像素化！！！
+
+koishi-plugin-yutang-jiezi
+自用小插件
+
+koishi-plugin-yutang-ks
+解析快手链接
+
+koishi-plugin-yutang-ksplus
+快手视频解析
+
+koishi-plugin-yutang-levelup
+一个很好用的群发言等级插件
+
+koishi-plugin-yutang-monetary-cdk
+货币系统cdk兑换码
+
+koishi-plugin-yutang-monetary-market
+通用货币交易系统
+
+koishi-plugin-yutang-music
+聚合音乐解析（网易云，酷我，汽水）
+
+koishi-plugin-yutang-self
+自用，不要下载
+
+koishi-plugin-yutang-sketch
+图片转为素描风格
+
+koishi-plugin-yzkb
+yzkb
+
+koishi-plugin-yzxgxt
+xgxt
+
+koishi-plugin-zan-pro
+点赞加强版（支持每日点赞和赞全群友）
+
+koishi-plugin-zero-width
+A zero width character (ZWC) processor for koishi.
+
+koishi-plugin-zhii-structure
+test
+
+koishi-plugin-zhipuai
+智谱AI聊天插件（支持不同用户连续对话）
+
+koishi-plugin-zhishi
+就被管家活活打断了双腿
+
+koishi-plugin-zhukong-currency-system
+功能强大的通用货币系统插件，支持增删改查、排行榜、自定义货币名称和提示词。（自用，不保证维护）
+
+koishi-plugin-zhukong-shop
+Koishi积分商城插件 - 提供完整的商品购买、命令次数限制与可视化管理系统
+
+koishi-plugin-zju-major-transfer
+获取浙大转专业申请人数的 Koishi 插件
+
+koishi-plugin-zjy-hmwk-check
+通过Cookie获取你的职教云数据，解析并展示你的作业数据。
+
+koishi-plugin-zkb-xx
+自用，不要下载
+
+koishi-plugin-zulove-acm-daily-problems
+自用的每日推送acm题目

@@ -1,0 +1,1 @@
+import{Buffer as e}from"https://registry.koishi.chat/modules/buffer/index.js";import p from"https://registry.koishi.chat/modules/process/index.js";import{Schema as a}from"https://registry.koishi.chat/modules/koishi/index.js";var f=Object.defineProperty,t=(r,o)=>f(r,"name",{value:o,configurable:!0}),_=a.object({});function m(r,o){}t(m,"apply");export{_ as Config,m as apply};
