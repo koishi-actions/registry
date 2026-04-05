@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v6
         with:
           ref: main
-          repository: koishijs/registry
+          repository: koishijs/registry-legacy
           token: ${{ secrets.WORKFLOW_TOKEN }}
 
       - name: Check out dist
