@@ -1,0 +1,2 @@
+koishi-plugin-iirose-stock-monitor-next@0.0.1: native modules not allowed
+koishi-plugin-restart-projectzomboid@6.1.14: native modules not allowed

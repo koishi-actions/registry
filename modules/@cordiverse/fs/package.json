@@ -1,0 +1,37 @@
+{
+  "name": "@cordiverse/fs",
+  "version": "1.3.7",
+  "description": "Node.js fs module ponyfill for browser",
+  "exports": {
+    ".": "./lib/index.js",
+    "./constants": "./lib/constants.js",
+    "./promises": "./lib/promises.js",
+    "./src/*": "./src/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordiverse/ponyfills.git",
+    "directory": "packages/fs"
+  },
+  "bugs": {
+    "url": "https://github.com/cordiverse/ponyfills/issues"
+  },
+  "homepage": "https://github.com/cordiverse/ponyfills",
+  "author": "Shigma <shigma10826@gmail.com>",
+  "keywords": [
+    "fs",
+    "filesystem",
+    "browserify",
+    "ponyfill",
+    "polyfill",
+    "node"
+  ],
+  "dependencies": {
+    "anymatch": "^3.1.3"
+  }
+}
