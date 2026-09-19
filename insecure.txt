@@ -1,0 +1,2 @@
+koishi-plugin-atis-plugin@0.0.1: insecure modules not allowed
+koishi-plugin-frk-plugin@0.0.1: insecure modules not allowed
