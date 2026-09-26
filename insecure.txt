@@ -1,0 +1,3 @@
+koishi-plugin-handle-pro@0.0.1: native modules not allowed
+koishi-plugin-iirose-stock-monitor-next@0.0.1: native modules not allowed
+koishi-plugin-randpic@0.1.0-beta.3: native modules not allowed
