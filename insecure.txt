@@ -1,0 +1,3 @@
+koishi-plugin-bitchfinder@1.0.2: native modules not allowed
+koishi-plugin-ishiki-workspace@0.0.5: native modules not allowed
+koishi-plugin-music-link-vincentzyu-fork@1.13.0: native modules not allowed

@@ -1,0 +1,32 @@
+{
+  "name": "@cordiverse/dns",
+  "version": "1.0.1",
+  "description": "Node.js dns module ponyfill for browser",
+  "exports": {
+    ".": "./lib/index.js",
+    "./promises": "./lib/promises.js",
+    "./src/*": "./src/*",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cordiverse/ponyfills.git",
+    "directory": "packages/dns"
+  },
+  "bugs": {
+    "url": "https://github.com/cordiverse/ponyfills/issues"
+  },
+  "homepage": "https://github.com/cordiverse/ponyfills",
+  "author": "Shigma <shigma10826@gmail.com>",
+  "keywords": [
+    "dns",
+    "browserify",
+    "ponyfill",
+    "polyfill",
+    "node"
+  ]
+}
