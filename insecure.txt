@@ -1,0 +1,5 @@
+@waves_man/koishi-plugin-vrchat-status@0.1.0: native modules not allowed
+koishi-plugin-gouqi-image-edit@0.0.1: native modules not allowed
+koishi-plugin-handle-pro@0.0.1: native modules not allowed
+koishi-plugin-spray@0.0.1: native modules not allowed
+koishi-plugin-yihuan@0.0.1: native modules not allowed
